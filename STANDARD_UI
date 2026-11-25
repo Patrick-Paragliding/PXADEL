@@ -1,0 +1,23 @@
+# STANDARD_UI.md — Socle Visuel & Ergonomique Commun
+
+## 1. Objectif
+Garantir une présentation homogène entre tous les outils HTML/JS (en ligne et en pack hors-ligne `.html` autonome sur Windows 11 et Android) sans dupliquer la logique d'interface.
+
+## 2. Structure obligatoire d'une page
+1. **En-tête fixe (`#app-header`)** :
+   - À gauche : Logo officiel + Titre du module + Badge éventuel + Numéro de version (`vX.Y`).
+   - À droite : Bouton d'aide standardisé (`? Aide`), toujours au même emplacement.
+2. **Zone d'alerte unique (`#app-alert`)** :
+   - Placée immédiatement sous l'en-tête.
+   - Niveaux autorisés : `info`, `success`, `warning`, `danger`.
+   - Les alertes `warning` et `danger` restent affichées jusqu'à action ou fermeture explicite.
+3. **Zone métier (`main`)** :
+   - Utilise exclusivement les classes communes (`.card`, `.btn`, `.btn-primary`, `.btn-danger`, `.badge`) et les variables CSS de `Theme.css`.
+
+## 3. Aide contextuelle par module
+- Chaque module fournit son propre contenu d'aide (titre + HTML court) passé à `initStandardHeader(...)`.
+- Le socle gère l'ouverture/fermeture de la modale (`Échap` ou bouton `Fermer`).
+
+## 4. Règle de diffusion (En ligne vs Pack `.html` hors-ligne)
+- Aucun chemin externe obligatoire au runtime dans la version autonome : lors du build du pack `.html` unique, `Theme.css`, `Core.js` et le `logo.svg` (inline) sont injectés directement depuis les fichiers de référence du socle.
+- Ne jamais modifier `Theme.css` ou `Core.js` localement dans un projet sans reporter la mise à jour dans le dépôt socle.

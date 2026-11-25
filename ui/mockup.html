@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Middle Office — SUP AIP & OpenAir (3 Écrans)</title>
+  <link rel="stylesheet" href="common/Theme.css" />
+  <style>
+    /* --- MENU PRINCIPAL À 3 ÉCRANS --- */
+    .nav-bar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius);
+      padding: 8px 12px;
+      margin-bottom: 14px;
+    }
+
+    .nav-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .nav-tab {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      padding: 8px 13px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border-color);
+      background: var(--bg-surface-2);
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .nav-tab:hover {
+      color: var(--text-main);
+      border-color: #3b82f6;
+    }
+
+    .nav-tab.active {
+      background: var(--accent-blue);
+      border-color: var(--accent-blue);
+      color: #ffffff;
+    }
+
+    .nav-user-box {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .nav-user-box select {
+      width: auto;
+      padding: 5px 10px;
+    }
+
+    /* --- TABLEAUX & BARRES D'OUTILS --- */
+    .toolbar-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 10px;
+      align-items: end;
+      margin-bottom: 14px;
+    }
+
+    .data-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.84rem;
+    }
+
+    .data-table th,
+    .data-table td {
+      text-align: left;
+      padding: 9px 8px;
+      border-bottom: 1px solid var(--border-color);
+      vertical-align: middle;
+    }
+
+    .data-table tbody tr {
+      transition: background 0.12s ease;
+    }
+
+    .data-table tbody tr:hover {
+      background: rgba(37, 99, 235, 0.1);
+    }
+
+    .row-alert {
+      background: rgba(239, 68, 68, 0.08);
+    }
+
+    .row-new {
+      background: rgba(37, 99, 235, 0.08);
+    }
+
+    .diff-pill {
+      display: inline-block;
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 2px 7px;
+      border-radius: 999px;
+      border: 1px solid var(--border-color);
+    }
+
+    .diff-NOUVEAU_LISTING {
+      background: rgba(37, 99, 235, 0.2);
+      color: #93c5fd;
+      border-color: rgba(59, 130, 246, 0.45);
+    }
+
+    .diff-DISPARU {
+      background: rgba(239, 68, 68, 0.2);
+      color: #fca5a5;
+      border-color: rgba(239, 68, 68, 0.45);
+    }
+
+    .diff-MODIFIE {
+      background: rgba(245, 158, 11, 0.2);
+      color: #fcd34d;
+      border-color: rgba(245, 158, 11, 0.45);
+    }
+
+    .diff-INCHANGE {
+      background: rgba(148, 163, 184, 0.12);
+      color: #94a3b8;
+    }
+
+    .tag-flight {
+      display: inline-block;
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      padding: 1px 5px;
+      border-radius: 4px;
+      background: var(--bg-surface-2);
+      border: 1px solid var(--border-color);
+      margin-right: 3px;
+    }
+
+    .tag-flight.off {
+      opacity: 0.35;
+    }
+
+    /* --- ÉCRAN 2 : FICHE DÉDIÉE À L'ENREGISTREMENT UNIQUE --- */
+    .detail-header-bar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      padding-bottom: 12px;
+      margin-bottom: 14px;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .detail-title-group {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .single-record-grid {
+      display: grid;
+      grid-template-columns: 1.35fr 0.85fr;
+      gap: 16px;
+      align-items: stretch;
+    }
+
+    @media (max-width: 1020px) {
+      .single-record-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .pdf-pane {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .pdf-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 8px;
+      padding: 8px 10px;
+      background: var(--bg-surface-2);
+      border-radius: var(--radius);
+      border: 1px solid var(--border-color);
+      font-size: 0.8rem;
+    }
+
+    .pdf-frame-full {
+      width: 100%;
+      flex: 1;
+      min-height: 68vh;
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius);
+      background: var(--bg-input);
+    }
+
+    .editor-pane {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .meta-strip {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      padding: 8px 10px;
+      background: var(--bg-surface-2);
+      border-radius: var(--radius);
+      border: 1px solid var(--border-color);
+    }
+
+    .editor-label-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 4px;
+    }
+
+    .compliance-hint {
+      font-size: 0.76rem;
+      color: var(--text-muted);
+      background: var(--bg-input);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius);
+      padding: 6px 9px;
+      margin-top: 6px;
+    }
+
+    .decision-buttons {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+
+    @media (max-width: 520px) {
+      .decision-buttons {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* --- ÉCRAN 3 : SYNTHÈSE --- */
+    .kpi-row {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+
+    .kpi-box {
+      background: var(--bg-surface-2);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius);
+      padding: 10px 12px;
+    }
+
+    .kpi-value {
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: var(--text-main);
+    }
+
+    .kpi-label {
+      font-size: 0.76rem;
+      color: var(--text-muted);
+    }
+  </style>
+</head>
+<body>
+  <!-- En-tête standard -->
+  <div id="app-header"></div>
+
+  <!-- Bandeau d'alerte standardisé -->
+  <div id="app-alert" class="alert-zone"></div>
+
+  <main class="container">
+    <!-- MENU PRINCIPAL À 3 ÉCRANS -->
+    <nav class="nav-bar" aria-label="Navigation principale">
+      <div class="nav-tabs">
+        <button type="button" class="nav-tab" data-screen="screening">
+          1. Screening Listing (Mensuel)
+        </button>
+        <button type="button" class="nav-tab active" data-screen="revue">
+          2. Revue SUP AIP & OpenAir
+        </button>
+        <button type="button" class="nav-tab" data-screen="export">
+          3. Compilation & Export Collectif
+        </button>
+      </div>
+
+      <div class="nav-user-box">
+        <label for="current-user">Contributeur :</label>
+        <select id="current-user">
+          <option value="Patrick">Patrick</option>
+          <option value="Sophie">Sophie</option>
+          <option value="Contributeur 3">Contributeur 3</option>
+        </select>
+      </div>
+    </nav>
+
+    <!-- ===================================================================== -->
+    <!-- ÉCRAN 1 : SCREENING MENSUEL (LISTING SUP AIP)                         -->
+    <!-- ===================================================================== -->
+    <section id="screen-screening" class="card hidden">
+      <div class="card-header">
+        <div>
+          <h2 class="card-title">1. Screening Mensuel — Comparaison Listing & État Suivi</h2>
+          <div style="font-size:0.78rem; color:var(--text-muted); margin-top:2px;">
+            Trié par numéro de SUP AIP décroissant · Listing courant : <code>SUPAIP-LISTING-2026-11-24.pdf</code> vs mois précédent (<code>2026-10-27</code>)
+          </div>
+        </div>
+        <div style="display:flex; gap:8px; flex-wrap:wrap;">
+          <a href="../samples/SUPAIP-LISTING-2026-11-24.pdf" target="_blank" rel="noopener" class="btn btn-sm">
+            Ouvrir PDF Listing
+          </a>
+        </div>
+      </div>
+
+      <div class="toolbar-grid">
+        <div>
+          <label for="screening-filter" style="font-size:0.78rem; color:var(--text-muted);">Afficher dans le screening</label>
+          <select id="screening-filter">
+            <option value="ECARTS">Écarts & alertes uniquement (Nouveau, Modifié, Disparu, Expiré)</option>
+            <option value="TOUS">Tout le listing + SUP suivis disparus (tri décroissant)</option>
+            <option value="ALERTES_VALIDE">Alertes sur SUP VALIDE (disparus ou expirés)</option>
+            <option value="NOUVEAU_LISTING">Nouveaux du mois</option>
+          </select>
+        </div>
+
+        <div>
+          <label for="screening-vfr-filter" style="font-size:0.78rem; color:var(--text-muted);">Règle de vol</label>
+          <select id="screening-vfr-filter">
+            <option value="TOUS">VFR et IFR</option>
+            <option value="VFR">VFR uniquement</option>
+            <option value="IFR_ONLY">IFR seul (hors VFR)</option>
+          </select>
+        </div>
+
+        <div>
+          <label style="font-size:0.78rem; color:var(--text-muted);">Nettoyage rapide</label>
+          <button type="button" id="btn-bulk-expire" class="btn btn-danger" style="width:100%;">
+            Passer les VALIDE disparus/expirés en EXPIRE
+          </button>
+        </div>
+      </div>
+
+      <div style="overflow-x:auto;">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>Année-Index ↓</th>
+              <th>Évolution vs M-1</th>
+              <th>Objet</th>
+              <th>Validité Du</th>
+              <th>Validité Au</th>
+              <th>AIRAC</th>
+              <th>VFR / IFR</th>
+              <th>Statut suivi</th>
+              <th>Source & Actions</th>
+            </tr>
+          </thead>
+          <tbody id="screening-tbody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ===================================================================== -->
+    <!-- ÉCRAN 2 : REVUE SUP AIP & OPENAIR (LISTE -> FICHE DÉDIÉE)             -->
+    <!-- ===================================================================== -->
+    <div id="screen-revue">
+      <!-- VUE 2A : LISTE DE SÉLECTION -->
+      <section id="view-list" class="card">
+        <div class="card-header">
+          <h2 class="card-title">2. Revue SUP AIP & OpenAir — Sélection pour validation</h2>
+          <span id="counter-label" style="font-size:0.8rem; color:var(--text-muted);"></span>
+        </div>
+
+        <div class="toolbar-grid">
+          <div>
+            <label for="filter-statut" style="font-size:0.78rem; color:var(--text-muted);">Filtre statut</label>
+            <select id="filter-statut">
+              <option value="ACTIFS">À traiter & actifs (hors IGNORE / EXPIRE)</option>
+              <option value="TOUS">Tous les SUP AIP</option>
+              <option value="NOUVEAU">NOUVEAU</option>
+              <option value="EN_REVUE">EN_REVUE</option>
+              <option value="VALIDE">VALIDE</option>
+              <option value="IGNORE">IGNORE</option>
+              <option value="EXPIRE">EXPIRE</option>
+            </select>
+          </div>
+
+          <div>
+            <label style="font-size:0.78rem; color:var(--text-muted);">Étape précédente</label>
+            <button type="button" id="btn-goto-screening" class="btn" style="width:100%;">
+              ← Aller au Screening Listing
+            </button>
+          </div>
+
+          <div>
+            <label style="font-size:0.78rem; color:var(--text-muted);">Étape suivante</label>
+            <button type="button" id="btn-goto-export" class="btn btn-success" style="width:100%;">
+              Aller à l'Export Collectif →
+            </button>
+          </div>
+        </div>
+
+        <div style="overflow-x:auto;">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Référence ↓</th>
+                <th>Objet / Zone</th>
+                <th>Statut</th>
+                <th>Responsable</th>
+                <th>Fin validité</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody id="sup-tbody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- VUE 2B : ÉCRAN DÉDIÉ FOCALISÉ SUR L'ENREGISTREMENT UNIQUE -->
+      <section id="view-detail" class="card hidden">
+        <div class="detail-header-bar">
+          <div class="detail-title-group">
+            <button type="button" id="btn-back-list" class="btn">← Retour à la liste</button>
+            <h2 class="card-title" id="detail-title" style="font-size:1.05rem;"></h2>
+            <span id="detail-badge"></span>
+          </div>
+          <div style="display:flex; gap:8px;">
+            <button type="button" id="btn-prev-sup" class="btn btn-sm">‹ Précédent</button>
+            <button type="button" id="btn-next-sup" class="btn btn-sm">Suivant ›</button>
+          </div>
+        </div>
+
+        <div class="single-record-grid">
+          <!-- Zone PDF dédiée à la lecture -->
+          <div class="pdf-pane">
+            <div class="pdf-toolbar">
+              <div>
+                <strong>PDF :</strong>
+                <span id="pdf-source-label" style="font-family:var(--font-mono); color:#93c5fd;">—</span>
+              </div>
+              <div style="display:flex; gap:6px; flex-wrap:wrap;">
+                <label class="btn btn-sm" style="margin:0;">
+                  Charger PDF local
+                  <input type="file" id="pdf-file-input" accept="application/pdf" style="display:none;" />
+                </label>
+                <a id="pdf-new-tab" href="#" target="_blank" rel="noopener" class="btn btn-sm">
+                  Nouvel onglet
+                </a>
+              </div>
+            </div>
+            <iframe id="pdf-viewer" class="pdf-frame-full" title="Aperçu PDF du SUP AIP"></iframe>
+          </div>
+
+          <!-- Zone focalisée sur l'enregistrement unique : OpenAir + Compliance + Note + Statut -->
+          <div class="editor-pane">
+            <div class="meta-strip">
+              <div>Responsable : <strong id="current-resp-label" style="color:var(--text-main);">—</strong></div>
+              <div>Fin validité : <strong id="current-end-label" style="color:var(--text-main); font-family:var(--font-mono);">—</strong></div>
+            </div>
+
+            <div style="flex:1; display:flex; flex-direction:column;">
+              <div class="editor-label-row">
+                <label for="openair-editor" style="font-size:0.8rem; color:var(--text-muted);">
+                  OpenAir individuel (édition face au PDF)
+                </label>
+                <span id="compliance-flag" class="badge badge-IGNORE" title="Indicateur de compliance technique">
+                  Compliance : en attente
+                </span>
+              </div>
+              <textarea id="openair-editor" rows="15" class="code-editor" style="flex:1;"></textarea>
+              <div id="compliance-details" class="compliance-hint">
+                Contrôles actifs (à qualifier) : balises AC/AN/AL/AH et fermeture du contour DP.
+              </div>
+            </div>
+
+            <div>
+              <label for="review-note" style="font-size:0.8rem; color:var(--text-muted);">
+                Note de revue / remarque PDF
+              </label>
+              <input type="text" id="review-note" placeholder="Ex: Limites ou coordonnées corrigées vs PDF" style="margin-top:4px;" />
+            </div>
+
+            <div class="decision-buttons">
+              <button type="button" id="btn-take" class="btn btn-warning">Prendre (EN_REVUE)</button>
+              <button type="button" id="btn-ignore" class="btn">Ignorer (IGNORE)</button>
+              <button type="button" id="btn-validate" class="btn btn-success">Valider (VALIDE)</button>
+              <button type="button" id="btn-expire" class="btn btn-danger">Expiré (EXPIRE)</button>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- ===================================================================== -->
+    <!-- ÉCRAN 3 : COMPILATION & EXPORT OPENAIR COLLECTIF                      -->
+    <!-- ===================================================================== -->
+    <section id="screen-export" class="card hidden">
+      <div class="card-header">
+        <h2 class="card-title">3. Compilation & Export OpenAir Collectif</h2>
+        <div style="display:flex; gap:8px; flex-wrap:wrap;">
+          <button type="button" id="btn-refresh-collectif" class="btn btn-primary">
+            Actualiser la compilation
+          </button>
+          <button type="button" id="btn-download-collectif" class="btn btn-success">
+            Télécharger .txt OpenAir
+          </button>
+        </div>
+      </div>
+
+      <div id="export-kpis" class="kpi-row"></div>
+
+      <label for="collectif-output" style="font-size:0.82rem; color:var(--text-muted); display:block; margin-bottom:6px;">
+        Contenu consolidé (uniquement les SUP au statut <code>VALIDE</code> et non expirés au <code>2026-11-25</code>) :
+      </label>
+      <textarea id="collectif-output" rows="18" class="code-editor" readonly></textarea>
+    </section>
+  </main>
+
+  <script src="common/Core.js"></script>
+  <script>
+    UI_CORE.initStandardHeader({
+      title: "Middle Office — SUP AIP & OpenAir",
+      version: "v0.2.0-mockup-3ecrans",
+      mode: "Mockup local",
+      logoPath: "common/Logo.png",
+      help: {
+        title: "Aide — Workflow en 3 écrans",
+        html: `
+          <p><strong>1. Screening Listing (Mensuel) :</strong> trié par numéro décroissant (<code>Année-Index</code>). Compare le listing courant avec le mois précédent pour repérer les nouveaux SUP, les changements de dates/AIRAC/VFR-IFR et les SUP <code>VALIDE</code> qui ont expiré ou disparu du listing.</p>
+          <p><strong>2. Revue SUP AIP & OpenAir :</strong> parcours <em>Liste → Fiche dédiée</em> avec lecture PDF large, indicateur de compliance technique et décision (<code>EN_REVUE</code>, <code>IGNORE</code>, <code>VALIDE</code>, <code>EXPIRE</code>).</p>
+          <p><strong>3. Compilation & Export Collectif :</strong> génère le fichier OpenAir final à partir des seuls SUP <code>VALIDE</code> non expirés.</p>
+          <hr style="border:0; border-top:1px solid var(--border-color); margin:12px 0;" />
+          <p style="margin:0 0 6px;"><strong>Scénario de test rapide :</strong></p>
+          <ol style="margin:0; padding-left:18px;">
+            <li>Allez sur <strong>1. Screening Listing</strong> pour repérer <code>2026-248</code> (Nouveau) et <code>2026-180</code> (<code>VALIDE</code> disparu/expiré).</li>
+            <li>Ouvrez <code>2026-202</code> dans <strong>2. Revue SUP AIP</strong> pour tester l'alerte de compliance (contour <code>DP</code> non fermé) puis fermez le polygone.</li>
+            <li>Terminez sur <strong>3. Compilation & Export Collectif</strong> pour contrôler le fichier final.</li>
+          </ol>
+        `
+      }
+    });
+
+    const TODAY = "2026-11-25";
+    const blobUrlsBySupId = {};
+    let selectedId = null;
+
+    // Jeu de données unifié : croise le listing officiel (2026-11-24) et l'état suivi local
+    let supRecords = [
+      {
+        id: "SUPAIP-2026-248",
+        anneeIndex: "2026-248",
+        objet: "Activité aérienne temporaire — Secteur Manche / Normandie",
+        validiteDu: "2026-11-26",
+        validiteAu: "2026-12-20",
+        airac: "2612",
+        vfr: true,
+        ifr: true,
+        inCurrentListing: true,
+        inPrevListing: false,
+        listingDiff: "NOUVEAU_LISTING",
+        statut: "NOUVEAU",
+        responsable: null,
+        pdfPath: "../samples/SUPAIP-2026-248.pdf",
+        note: "",
+        openair: `* ============================================================\n* SUP AIP      : SUPAIP-2026-248\n* STATUT       : BROUILLON A VERIFIER\n* VALIDITE     : 2026-11-26 -> 2026-12-20\n* ============================================================\nAC TSA\nAN SUPAIP-2026-248\nAL SFC\nAH FL065\nDP 49:30:00 N 001:45:00 W\nDP 49:30:00 N 001:10:00 W\nDP 49:05:00 N 001:10:00 W\nDP 49:05:00 N 001:45:00 W\nDP 49:30:00 N 001:45:00 W`
+      },
+      {
+        id: "SUPAIP-2026-204",
+        anneeIndex: "2026-204",
+        objet: "Zone réglementée temporaire — Référence échantillon 204",
+        validiteDu: "2026-10-01",
+        validiteAu: "2026-12-31",
+        airac: "2611",
+        vfr: true,
+        ifr: true,
+        inCurrentListing: true,
+        inPrevListing: true,
+        listingDiff: "INCHANGE",
+        statut: "VALIDE",
+        responsable: "Patrick",
+        pdfPath: "../samples/SUPAIP-2026-204.txt",
+        note: "Basé sur SUPAIP-2026-204.txt",
+        openair: `* ============================================================\n* SUP AIP      : SUPAIP-2026-204\n* STATUT       : VALIDE\n* VALIDITE     : 2026-10-01 -> 2026-12-31\n* RESPONSABLE  : Patrick\n* REVUE / NOTE : Basé sur SUPAIP-2026-204.txt\n* ============================================================\nAC R\nAN SUPAIP-2026-204\nAL SFC\nAH 3500ft AMSL\nDP 49:15:00 N 000:30:00 W\nDP 49:15:00 N 000:10:00 W\nDP 49:00:00 N 000:10:00 W\nDP 49:00:00 N 000:30:00 W\nDP 49:15:00 N 000:30:00 W`
+      },
+      {
+        id: "SUPAIP-2026-202",
+        anneeIndex: "2026-202",
+        objet: "Exercice / Restriction temporaire — Prolongation validité",
+        validiteDu: "2026-10-15",
+        validiteAu: "2026-12-15",
+        airac: "2612",
+        vfr: true,
+        ifr: false,
+        inCurrentListing: true,
+        inPrevListing: true,
+        listingDiff: "MODIFIE",
+        statut: "EN_REVUE",
+        responsable: "Sophie",
+        pdfPath: "../samples/SUPAIP-2026-202.pdf",
+        note: "Validité Au prolongée au 15/12 + contour DP à fermer",
+        openair: `* ============================================================\n* SUP AIP      : SUPAIP-2026-202\n* STATUT       : EN_REVUE\n* VALIDITE     : 2026-10-15 -> 2026-12-15\n* RESPONSABLE  : Sophie\n* ============================================================\nAC R\nAN SUPAIP-2026-202\nAL SFC\nAH FL055\nDP 48:50:00 N 000:40:00 E\nDP 48:50:00 N 001:05:00 E\nDP 48:35:00 N 001:05:00 E\nDP 48:35:00 N 000:40:00 E`
+      },
+      {
+        id: "SUPAIP-2026-201",
+        anneeIndex: "2026-201",
+        objet: "Procédure aux instruments / Balisage aérodrome (IFR seul)",
+        validiteDu: "2026-11-01",
+        validiteAu: "2026-12-30",
+        airac: "2611",
+        vfr: false,
+        ifr: true,
+        inCurrentListing: true,
+        inPrevListing: false,
+        listingDiff: "NOUVEAU_LISTING",
+        statut: "NOUVEAU",
+        responsable: null,
+        pdfPath: "../samples/SUPAIP-2026-201.pdf",
+        note: "",
+        openair: `* ============================================================\n* SUP AIP      : SUPAIP-2026-201\n* STATUT       : BROUILLON A VERIFIER\n* VALIDITE     : 2026-11-01 -> 2026-12-30\n* ============================================================\nAC D\nAN SUPAIP-2026-201\nAL SFC\nAH 3000ft AMSL\nDP 49:10:00 N 000:25:00 W\nDP 49:10:00 N 000:05:00 W\nDP 48:55:00 N 000:05:00 W\nDP 48:55:00 N 000:25:00 W\nDP 49:10:00 N 000:25:00 W`
+      },
+      {
+        id: "SUPAIP-2026-180",
+        anneeIndex: "2026-180",
+        objet: "Ancienne ZRT — Disparue du listing courant & date échue",
+        validiteDu: "2026-09-10",
+        validiteAu: "2026-11-10",
+        airac: "2610",
+        vfr: true,
+        ifr: false,
+        inCurrentListing: false,
+        inPrevListing: true,
+        listingDiff: "DISPARU",
+        statut: "VALIDE",
+        responsable: "Patrick",
+        pdfPath: "../samples/SUPAIP-2026-201.pdf",
+        note: "Présent M-1, absent du listing 2026-11-24",
+        openair: `* SUPAIP-2026-180 (expiré / disparu)\nAC R\nAN SUPAIP-2026-180\nAL SFC\nAH 2500ft AMSL\nDP 49:10:00 N 000:20:00 W\nDP 49:10:00 N 000:05:00 W\nDP 49:00:00 N 000:05:00 W\nDP 49:10:00 N 000:20:00 W`
+      }
+    ];
+
+    // --- TRI DÉCROISSANT PAR NUMÉRO DE SUP AIP (Année-Index) ---
+    function sortRecordsDesc(list) {
+      return [...list].sort((a, b) =>
+        b.anneeIndex.localeCompare(a.anneeIndex, "fr", { numeric: true })
+      );
+    }
+
+    function isValideAlert(item) {
+      const expired = item.validiteAu && item.validiteAu < TODAY;
+      const disappeared = !item.inCurrentListing;
+      return item.statut === "VALIDE" && (expired || disappeared);
+    }
+
+    // --- NAVIGATION ENTRE LES 3 ÉCRANS ---
+    function switchScreen(screenName) {
+      document.querySelectorAll(".nav-tab").forEach((btn) => {
+        btn.classList.toggle("active", btn.dataset.screen === screenName);
+      });
+
+      document.getElementById("screen-screening").classList.toggle("hidden", screenName !== "screening");
+      document.getElementById("screen-revue").classList.toggle("hidden", screenName !== "revue");
+      document.getElementById("screen-export").classList.toggle("hidden", screenName !== "export");
+
+      if (screenName === "screening") renderScreeningTable();
+      if (screenName === "revue") showListView();
+      if (screenName === "export") renderExportScreen();
+    }
+
+    document.querySelectorAll(".nav-tab").forEach((btn) => {
+      btn.addEventListener("click", () => switchScreen(btn.dataset.screen));
+    });
+
+    document.getElementById("btn-goto-screening").addEventListener("click", () => switchScreen("screening"));
+    document.getElementById("btn-goto-export").addEventListener("click", () => switchScreen("export"));
+
+    // =========================================================================
+    // ÉCRAN 1 : SCREENING MENSUEL (LISTING)
+    // =========================================================================
+    function renderScreeningTable() {
+      const modeFilter = document.getElementById("screening-filter").value;
+      const flightFilter = document.getElementById("screening-vfr-filter").value;
+      const tbody = document.getElementById("screening-tbody");
+
+      const sorted = sortRecordsDesc(supRecords).filter((item) => {
+        const alertValide = isValideAlert(item);
+        const hasChange = item.listingDiff !== "INCHANGE" || alertValide;
+
+        if (modeFilter === "ECARTS" && !hasChange) return false;
+        if (modeFilter === "ALERTES_VALIDE" && !alertValide) return false;
+        if (modeFilter === "NOUVEAU_LISTING" && item.listingDiff !== "NOUVEAU_LISTING") return false;
+
+        if (flightFilter === "VFR" && !item.vfr) return false;
+        if (flightFilter === "IFR_ONLY" && (item.vfr || !item.ifr)) return false;
+
+        return true;
+      });
+
+      const diffLabels = {
+        NOUVEAU_LISTING: "Nouveau M",
+        DISPARU: "Disparu listing",
+        MODIFIE: "Modifié vs M-1",
+        INCHANGE: "Inchangé"
+      };
+
+      tbody.innerHTML = sorted.map((item) => {
+        const alertValide = isValideAlert(item);
+        const expired = item.validiteAu && item.validiteAu < TODAY;
+        const rowClass = alertValide ? "row-alert" : (item.listingDiff === "NOUVEAU_LISTING" ? "row-new" : "");
+
+        return `
+          <tr class="${rowClass}">
+            <td><strong>${item.anneeIndex}</strong></td>
+            <td>
+              <span class="diff-pill diff-${item.listingDiff}">${diffLabels[item.listingDiff]}</span>
+              ${alertValide ? `<div style="font-size:0.72rem; color:#fca5a5; margin-top:3px;">⚠ VALIDE ${!item.inCurrentListing ? "absent" : "expiré"}</div>` : ""}
+            </td>
+            <td>${item.objet}</td>
+            <td style="font-family:var(--font-mono); font-size:0.78rem;">${item.validiteDu || "—"}</td>
+            <td style="font-family:var(--font-mono); font-size:0.78rem; ${expired ? "color:#fca5a5; font-weight:700;" : ""}">${item.validiteAu || "—"}</td>
+            <td style="font-family:var(--font-mono); font-size:0.78rem;">${item.airac || "—"}</td>
+            <td>
+              <span class="tag-flight ${item.vfr ? "" : "off"}">VFR</span>
+              <span class="tag-flight ${item.ifr ? "" : "off"}">IFR</span>
+            </td>
+            <td><span class="badge badge-${item.statut}">${item.statut}</span></td>
+            <td>
+              <div style="display:flex; gap:5px; flex-wrap:wrap;">
+                <a href="${item.pdfPath}" download class="btn btn-sm" title="Télécharger le fichier source">
+                  ↓ Source
+                </a>
+                <button type="button" class="btn btn-sm btn-primary btn-scr-open" data-id="${item.id}">
+                  Revue
+                </button>
+                ${alertValide ? `
+                  <button type="button" class="btn btn-sm btn-danger btn-scr-expire" data-id="${item.id}">
+                    → EXPIRE
+                  </button>
+                ` : ""}
+                ${item.statut === "NOUVEAU" && !item.vfr ? `
+                  <button type="button" class="btn btn-sm btn-scr-ignore" data-id="${item.id}">
+                    → IGNORE
+                  </button>
+                ` : ""}
+              </div>
+            </td>
+          </tr>
+        `;
+      }).join("");
+
+      tbody.querySelectorAll(".btn-scr-open").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          switchScreen("revue");
+          openDetailView(btn.dataset.id);
+        });
+      });
+
+      tbody.querySelectorAll(".btn-scr-expire").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const rec = supRecords.find((r) => r.id === btn.dataset.id);
+          if (!rec) return;
+          rec.statut = "EXPIRE";
+          rec.responsable = document.getElementById("current-user").value;
+          renderScreeningTable();
+          UI_CORE.showAlert(`${rec.id} basculé en EXPIRE depuis le screening.`, "warning");
+        });
+      });
+
+      tbody.querySelectorAll(".btn-scr-ignore").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const rec = supRecords.find((r) => r.id === btn.dataset.id);
+          if (!rec) return;
+          rec.statut = "IGNORE";
+          rec.openair = "";
+          rec.responsable = document.getElementById("current-user").value;
+          renderScreeningTable();
+          UI_CORE.showAlert(`${rec.id} (IFR seul) basculé en IGNORE.`, "info");
+        });
+      });
+    }
+
+    document.getElementById("screening-filter").addEventListener("change", renderScreeningTable);
+    document.getElementById("screening-vfr-filter").addEventListener("change", renderScreeningTable);
+
+    document.getElementById("btn-bulk-expire").addEventListener("click", () => {
+      const user = document.getElementById("current-user").value;
+      let count = 0;
+      supRecords.forEach((rec) => {
+        if (isValideAlert(rec)) {
+          rec.statut = "EXPIRE";
+          rec.responsable = user;
+          count++;
+        }
+      });
+      renderScreeningTable();
+      UI_CORE.showAlert(
+        `${count} SUP VALIDE disparu(s) ou expiré(s) passé(s) en EXPIRE.`,
+        count > 0 ? "warning" : "info"
+      );
+    });
+
+    // =========================================================================
+    // ÉCRAN 2 : REVUE SUP AIP & OPENAIR (LISTE -> ENREGISTREMENT UNIQUE)
+    // =========================================================================
+    function normalizeCoordLine(line) {
+      return line.replace(/^DP\s+/i, "").replace(/\s+/g, " ").trim().toUpperCase();
+    }
+
+    function checkOpenAirCompliance(rawText) {
+      const text = (rawText || "").trim();
+      if (!text) {
+        return {
+          badgeClass: "badge-IGNORE",
+          label: "Compliance : vide / N/A",
+          detail: "Aucun contenu OpenAir saisi (normal si SUP ignoré)."
+        };
+      }
+
+      const issues = [];
+      const lines = text.split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
+
+      if (!/^AC\s+/m.test(text)) issues.push("Balise AC manquante");
+      if (!/^AN\s+/m.test(text)) issues.push("Balise AN manquante");
+      if (!/^AL\s+/m.test(text)) issues.push("Balise AL manquante");
+      if (!/^AH\s+/m.test(text)) issues.push("Balise AH manquante");
+
+      const dpLines = lines.filter((l) => /^DP\s+/i.test(l));
+      if (dpLines.length > 0) {
+        if (dpLines.length < 4) {
+          issues.push("Moins de 4 points DP pour fermer un contour");
+        } else {
+          const firstPt = normalizeCoordLine(dpLines[0]);
+          const lastPt = normalizeCoordLine(dpLines[dpLines.length - 1]);
+          if (firstPt !== lastPt) {
+            issues.push("Contour DP non fermé (dernier DP ≠ premier DP)");
+          }
+        }
+      } else {
+        issues.push("Aucun point DP détecté");
+      }
+
+      if (issues.length === 0) {
+        return {
+          badgeClass: "badge-VALIDE",
+          label: "Compliance : OK",
+          detail: "Contrôles actifs OK (balises de base et fermeture du contour DP)."
+        };
+      }
+
+      return {
+        badgeClass: "badge-EN_REVUE",
+        label: `Compliance : ${issues.length} alerte(s)`,
+        detail: `Points à vérifier : ${issues.join(" • ")}`
+      };
+    }
+
+    function refreshComplianceFlag() {
+      const editorText = document.getElementById("openair-editor").value;
+      const res = checkOpenAirCompliance(editorText);
+      const flagEl = document.getElementById("compliance-flag");
+      const detailEl = document.getElementById("compliance-details");
+
+      flagEl.className = `badge ${res.badgeClass}`;
+      flagEl.textContent = res.label;
+      flagEl.title = res.detail;
+      detailEl.textContent = res.detail;
+    }
+
+    function getFilteredRevueList() {
+      const filter = document.getElementById("filter-statut").value;
+      return sortRecordsDesc(supRecords).filter((item) => {
+        if (filter === "TOUS") return true;
+        if (filter === "ACTIFS") return item.statut !== "IGNORE" && item.statut !== "EXPIRE";
+        return item.statut === filter;
+      });
+    }
+
+    function showListView() {
+      document.getElementById("view-detail").classList.add("hidden");
+      document.getElementById("view-list").classList.remove("hidden");
+      renderRevueTable();
+    }
+
+    function renderRevueTable() {
+      const filtered = getFilteredRevueList();
+      const tbody = document.getElementById("sup-tbody");
+      document.getElementById("counter-label").textContent = `${filtered.length} affiché(s) / ${supRecords.length} total`;
+
+      tbody.innerHTML = filtered.map((item) => {
+        const alertValide = isValideAlert(item);
+        return `
+          <tr data-id="${item.id}" style="cursor:pointer;">
+            <td><strong>${item.id}</strong></td>
+            <td>${item.objet}</td>
+            <td>
+              <span class="badge badge-${item.statut}">${item.statut}</span>
+              ${alertValide ? `<span style="font-size:0.74rem; color:#fca5a5; margin-left:6px;">⚠ À expirer</span>` : ""}
+            </td>
+            <td>${item.responsable || "—"}</td>
+            <td style="font-family:var(--font-mono); font-size:0.8rem;">${item.validiteAu || "—"}</td>
+            <td><button type="button" class="btn btn-sm btn-primary">Ouvrir</button></td>
+          </tr>
+        `;
+      }).join("");
+
+      tbody.querySelectorAll("tr").forEach((tr) => {
+        tr.addEventListener("click", () => openDetailView(tr.dataset.id));
+      });
+    }
+
+    function openDetailView(id) {
+      const item = supRecords.find((s) => s.id === id);
+      if (!item) return;
+
+      selectedId = id;
+      document.getElementById("view-list").classList.add("hidden");
+      document.getElementById("view-detail").classList.remove("hidden");
+
+      document.getElementById("detail-title").textContent = `${item.id} — ${item.objet}`;
+      document.getElementById("detail-badge").innerHTML = `<span class="badge badge-${item.statut}">${item.statut}</span>`;
+      document.getElementById("current-resp-label").textContent = item.responsable || "Non attribué";
+      document.getElementById("current-end-label").textContent = item.validiteAu || "—";
+
+      const docUrl = blobUrlsBySupId[item.id] || item.pdfPath || "";
+      document.getElementById("pdf-source-label").textContent = blobUrlsBySupId[item.id]
+        ? `Fichier local chargé (${item.id})`
+        : (item.pdfPath || "Aucun fichier");
+      document.getElementById("pdf-viewer").src = docUrl;
+      document.getElementById("pdf-new-tab").href = docUrl || "#";
+
+      document.getElementById("openair-editor").value = item.openair || "";
+      document.getElementById("review-note").value = item.note || "";
+      refreshComplianceFlag();
+
+      const currentUser = document.getElementById("current-user").value;
+      if (item.statut === "EN_REVUE" && item.responsable && item.responsable !== currentUser) {
+        UI_CORE.showAlert(`${item.id} est déjà en revue (EN_REVUE) par ${item.responsable}.`, "warning");
+      }
+    }
+
+    function stepSup(delta) {
+      const filtered = getFilteredRevueList();
+      if (!filtered.length) return;
+      const idx = filtered.findIndex((s) => s.id === selectedId);
+      const nextIdx = idx === -1 ? 0 : (idx + delta + filtered.length) % filtered.length;
+      openDetailView(filtered[nextIdx].id);
+    }
+
+    document.getElementById("btn-back-list").addEventListener("click", showListView);
+    document.getElementById("btn-prev-sup").addEventListener("click", () => stepSup(-1));
+    document.getElementById("btn-next-sup").addEventListener("click", () => stepSup(1));
+    document.getElementById("openair-editor").addEventListener("input", refreshComplianceFlag);
+    document.getElementById("filter-statut").addEventListener("change", renderRevueTable);
+
+    document.getElementById("pdf-file-input").addEventListener("change", (e) => {
+      const file = e.target.files && e.target.files[0];
+      if (!file || !selectedId) return;
+
+      if (blobUrlsBySupId[selectedId]) {
+        URL.revokeObjectURL(blobUrlsBySupId[selectedId]);
+      }
+      blobUrlsBySupId[selectedId] = URL.createObjectURL(file);
+      openDetailView(selectedId);
+      UI_CORE.showAlert(`PDF local "${file.name}" chargé pour ${selectedId}.`, "info");
+      e.target.value = "";
+    });
+
+    function updateSelectedStatus(newStatus) {
+      const item = supRecords.find((s) => s.id === selectedId);
+      if (!item) return;
+
+      const user = document.getElementById("current-user").value;
+      const editorText = document.getElementById("openair-editor").value.trim();
+      const noteText = document.getElementById("review-note").value.trim();
+
+      if (newStatus === "VALIDE") {
+        const hasAC = /^AC\s+/m.test(editorText);
+        const hasAN = /^AN\s+/m.test(editorText);
+        const hasAL = /^AL\s+/m.test(editorText);
+        const hasAH = /^AH\s+/m.test(editorText);
+        if (!hasAC || !hasAN || !hasAL || !hasAH) {
+          UI_CORE.showAlert("Validation refusée : le bloc OpenAir doit contenir AC, AN, AL et AH.", "danger");
+          return;
+        }
+        item.openair = editorText;
+      }
+
+      if (newStatus === "IGNORE") {
+        item.openair = "";
+      }
+
+      item.statut = newStatus;
+      item.responsable = user;
+      item.note = noteText;
+
+      openDetailView(item.id);
+      UI_CORE.showAlert(`${item.id} mis à jour en ${newStatus} par ${user}.`, "success");
+    }
+
+    document.getElementById("btn-take").addEventListener("click", () => updateSelectedStatus("EN_REVUE"));
+    document.getElementById("btn-ignore").addEventListener("click", () => updateSelectedStatus("IGNORE"));
+    document.getElementById("btn-validate").addEventListener("click", () => updateSelectedStatus("VALIDE"));
+    document.getElementById("btn-expire").addEventListener("click", () => updateSelectedStatus("EXPIRE"));
+
+    // =========================================================================
+    // ÉCRAN 3 : COMPILATION & EXPORT OPENAIR COLLECTIF
+    // =========================================================================
+    function renderExportScreen() {
+      const sorted = sortRecordsDesc(supRecords);
+      const actifs = sorted.filter(
+        (item) => item.statut === "VALIDE" && (!item.validiteAu || item.validiteAu >= TODAY) && item.inCurrentListing
+      );
+      const enCours = sorted.filter((i) => i.statut === "NOUVEAU" || i.statut === "EN_REVUE");
+      const ignores = sorted.filter((i) => i.statut === "IGNORE");
+      const expires = sorted.filter((i) => i.statut === "EXPIRE");
+
+      document.getElementById("export-kpis").innerHTML = `
+        <div class="kpi-box"><div class="kpi-value" style="color:#86efac;">${actifs.length}</div><div class="kpi-label">VALIDE inclus</div></div>
+        <div class="kpi-box"><div class="kpi-value" style="color:#fcd34d;">${enCours.length}</div><div class="kpi-label">NOUVEAU / EN_REVUE</div></div>
+        <div class="kpi-box"><div class="kpi-value" style="color:#94a3b8;">${ignores.length}</div><div class="kpi-label">IGNORE</div></div>
+        <div class="kpi-box"><div class="kpi-value" style="color:#fca5a5;">${expires.length}</div><div class="kpi-label">EXPIRE</div></div>
+      `;
+
+      const header = [
+        "* ============================================================",
+        "* PARAPENTE CROSS ADDICT | FICHIER OPENAIR COLLECTIF",
+        `* GENERE_LE     : ${TODAY}`,
+        "* REGLE_FILTRE  : STATUT == VALIDE ET NON EXPIRE",
+        `* NB_SUP_ACTIFS : ${actifs.length}`,
+        "* ============================================================",
+        ""
+      ].join("\n");
+
+      const body = actifs.map((item) => [
+        `* --- DEBUT ${item.id} (resp: ${item.responsable || "N/A"}, fin: ${item.validiteAu || "N/A"}) ---`,
+        item.openair,
+        `* --- FIN ${item.id} ---`,
+        ""
+      ].join("\n")).join("\n");
+
+      document.getElementById("collectif-output").value = header + body;
+    }
+
+    document.getElementById("btn-refresh-collectif").addEventListener("click", () => {
+      renderExportScreen();
+      UI_CORE.showAlert("Compilation OpenAir collectif actualisée.", "info");
+    });
+
+    document.getElementById("btn-download-collectif").addEventListener("click", () => {
+      const content = document.getElementById("collectif-output").value;
+      const blob = new Blob([content], { type: "text/plain;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `OpenAir_SUPAIP_${TODAY}.txt`;
+      a.click();
+      URL.revokeObjectURL(url);
+      UI_CORE.showAlert(`Fichier OpenAir_SUPAIP_${TODAY}.txt téléchargé.`, "success");
+    });
+
+    // Initialisation sur l'écran principal (2. Revue SUP AIP & OpenAir)
+    switchScreen("revue");
+    UI_CORE.showAlert("Menu à 3 écrans prêt : 1. Screening Listing, 2. Revue SUP AIP & OpenAir (écran principal), 3. Export Collectif.", "info");
+  </script>
+</body>
+</html>

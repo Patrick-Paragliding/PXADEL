@@ -1,0 +1,2652 @@
+* Mise à jour : 15/09/2026
+
+* NOTAM R0694/26 - ZRT CHANCEAUX PRES LOCHES  - Expire: 31/03/2028
+
+* NOTAM R1511/26  - ZRT CRUCEY                - Expire: 31/03/2027
+
+* NOTAM R0693/26  - ZRT DREUX-SENONCHES       - Expire: 22/10/2026
+
+
+
+
+
+* SUP AIP 204/26  - ZRT LES AIRES             - Expire: 28/03/2027
+
+
+* SUP AIP 194/26  - ZRT CASTELJALOUX          - Expire: 01/10/2026
+
+*                   
+
+* SUP AIP 191/26  - ZRT LE BLANC 1            - Expire: 01/06/2027
+
+*                   ZRT LE BLANC 2
+*                   ZRT LE BLANC 2
+
+*                   ZRT LE BLANC 3
+
+* SUP AIP 190/26  - ZRT MARLY                 - Expire: 31/12/2026
+
+*                   ZRT MAUBEUGE
+
+*                   ZRT LE QUESNOY
+
+* SUP AIP 153/26  - ZRT Blois                 - Expire: 24/12/2026
+
+
+
+* SUP AIP 146/26  - ZRT VALD'YERRE             - Expire: 01/05/2027
+
+*                   ZRT EVOLUTION OUEST
+
+*                   ZRT EVOLUTION EST
+
+*                   ZRT PUITS BRICY
+
+*                   ZRT PUITS CHATEAUDUN
+
+*                   ZRT PUITS LA FONTENELLE
+
+*                   ZRT PUITS LA LANDE
+
+*                   ZRT PUITS FEUILLETORSE
+
+*                   ZRT CORRIDOR SE
+
+*                   ZRT CORRIDOR NE
+
+*                   ZRT CORRIDOR SW1
+
+*                   ZRT CORRIDOR SW2
+
+
+* SUP AIP 128/26  - ZRT ROUEN                  - Expire: 31/12/2027
+
+* SUP AIP 120/26  - ZRT LA CHAUME              - Expire: 12/04/2028
+
+* SUP AIP 112/26  - ZRT PAMIERS-SAVERDUN       - Expire: 31/12/2026
+
+*                   ZRT PAMIERS-ST GIRONS
+
+*                   ZRT PAMIERS-LAVELANET
+
+* SUP AIP 111/26  - ZRT FIRMINY                - Expire: 31/12/2026
+
+* SUP AIP 101/26  - ZRT/ZDT SMDM MANCHE        - Expire: 14/05/2027
+
+*                   (16 zones LF-R et LF-D)
+
+* SUP AIP 095/26  - ZRT AUBENAS 1              - Expire: 31/12/2026
+
+*                   ZRT AUBENAS 2
+
+* SUP AIP 084/26  - ZRT SALBRIS                - Expire: 06/05/2027
+
+* SUP AIP 076/26  - ZRT/ZDT RADE DE CAEN       - Expire: 26/04/2027
+
+*                   ZRT/ZDT RADE DE CAPELLE
+
+*                   ZRT/ZDT CAP LEVY
+
+*                   ZRT/ZDT CAP DE LA HAGUE
+
+*                   ZRT VAUVILLE
+
+*                   ZRT COTENTIN
+
+*                   ZRT COUTAINVILLE
+
+*                   ZRT BREVILLE
+
+*                   ZRT/ZDT DEP PORT EN BESSIN
+
+*                   ZRT DEP CHERBOURG
+
+*                   ZRT DEP JOBOURG
+
+*                   ZRT DEP PORTBAIL
+
+* SUP AIP 074/26  - ZRT AUBIAT-SARDON 1        - Expire: 30/04/2027
+
+*                   ZRT AUBIAT-SARDON 2
+
+* SUP AIP 067/26  - ZRT SUD FRANCILIEN 1       - Expire: 14/04/2027
+
+*                   ZRT SUD FRANCILIEN 2
+
+* SUP AIP 063/26  - ZRT LE LUC                 - Expire: 14/04/2027
+
+* SUP AIP 060/26  - ZRT CHENEVIERES            - Expire: 12/04/2028
+
+* SUP AIP 050/26  - ZRT SAINT-HILAIRE          - Expire: 31/03/2027
+
+
+* SUP AIP 038/26  - ZRT HOMBORY                - Expire: 22/10/2026
+
+*                   ZRT CORRIDOR HOMBORY
+
+
+* SUP AIP 035/26  - ZRT PLOEMEUR BASE          - Expire: 14/04/2027
+
+*                   ZRT PLOEMEUR EXTENDED
+
+
+
+
+* SUP AIP 020/26  - ZRT AUCH-LECTOURE          - Expire: 11/09/2026
+
+*                   ZRT AUCH-NOGARO
+
+*                   ZRT AUCH SUD
+
+
+* SUP AIP 216/25  - ZRT METZ-THIONVILLE        - Expire: 31/12/2026
+
+* SUP AIP 214/25  - ZRT AIRGHT                 - Expire: 31/12/2027
+
+* SUP AIP 212/25  - ZRT HIRSON                 - Expire: 31/12/2026
+
+* SUP AIP 210/25  - ZRT L'AIGLE-VERNEUIL       - Expire: 31/12/2027
+
+* SUP AIP 191/25  - ZRT DRONE COUBERT          - Expire: 31/12/2026
+
+* SUP AIP 187/25  - ZRT RAPACE ALPHA           - Expire: 24/09/2026
+
+*                   ZRT RAPACE BRAVO
+
+* SUP AIP 176/25  - ZRT SUD CHARTRES           - Expire: 14/10/2026
+
+* SUP AIP 159/25  - ZRT SAINT-DIZIER           - Expire: 14/04/2027
+
+*                   ZRT JOINVILLE
+
+*                   ZRT CHALONS
+
+* SUP AIP 094/25  - ZRT DSV ROMORANTIN ALPHA   - Expire: 14/04/2027
+
+*                   ZRT DSV ROMORANTIN BRAVO
+
+*                   ZRT DSV ROMORANTIN CHARLIE
+
+*                   ZRT DSV ROMORANTIN DELTA
+
+
+
+* NOTAM R2170/26  - ZRT FORGES-LES-EAUX        - Expire: 31/12/2028
+
+* Biotope         - ZRT CASTEL-VENDON          - Annuel du 01/11 au 31/05 
+
+*----------------------------------------------------------
+
+
+*------------- NOTAM R0694/26 -------------------------
+
+* NOTAM R0694/26 - ZRT CHANCEAUX PRES LOCHES
+* FIR : LFBB (Bordeaux)
+* Objet : ZRT temporaire pour vols d'aéronefs sans équipage à bord hors vue - RDL177/25NM LFEF ARP
+* Validité : 01/04/2026 0000 au 31/03/2028 2359
+* Activité : vols aéronefs sans équipage à bord hors vue
+* Statut : ZRT se substituant aux portions d'espaces aériens avec lesquelles elle interfère
+* Services rendus : information de vol et alerte par Poitiers Info ou Bordeaux CTL
+* Conditions de pénétration CAG/CAM : contournement obligatoire, sauf aéronefs autorisés par le gestionnaire pour cette activité, ou aéronefs militaires/douane/police/SAR/lutte incendie/transport médical en mission ne permettant pas le contournement, après coordination avec le responsable des opérations
+* Contact : 06 67 75 05 31 ou 07 68 06 80 02
+* Limites verticales : SFC / 300FT AGL
+
+AC R
+AN ZRT CHANCEAUX PRES LOCHES
+AL SFC
+AH 300FT AGL
+DP 47:08:41 N 000:57:20 E
+DP 47:08:18 N 000:58:03 E
+DP 47:07:48 N 000:57:17 E
+DP 47:08:09 N 000:56:35 E
+DP 47:08:41 N 000:57:20 E
+
+
+
+
+
+
+*------------- SUP AIP 204/26 -------------------------
+
+
+* SUP AIP 204/26 - ZRT LES AIRES
+* Publication : 10 SEP 2026
+* Objet : ZRT temporaire pour la surveillance d'une carriere
+* FIR : MARSEILLE LFMM
+* Commune : Les Aires (34)
+* Validite : 28 SEP 2026 0000 au 28 MAR 2027 2359
+* Activite : vols hors vue d'un aeronef sans equipage a bord, de jour et de nuit
+* Conditions : contournement obligatoire pendant l'activite, avec exceptions et coordinations
+* Gestionnaire : NEXSTONE
+* Responsable drone : 06 60 17 41 47
+* Limites verticales : SFC / 180 ft ASFC
+* Information usagers : activite reelle connue du gestionnaire
+*
+* Format OpenAir - ZRT LES AIRES
+* Coordonnees extraites du SUP AIP 204/26
+*
+AC R
+AN ZRT LES AIRES
+AH 180 FT
+AL SFC
+DP 43:34:46 N 003:04:02 E
+DP 43:35:07 N 003:04:33 E
+DP 43:34:08 N 003:05:59 E
+DP 43:33:49 N 003:05:33 E
+DP 43:34:46 N 003:04:02 E
+
+
+
+
+*------------- SUP AIP 194/26 -------------------------
+* Exercice BLACK CROW 2026 - Région Centre
+* SUP AIP 194/26 - Valide du 21/09/2026 au 01/10/2026
+* Activité: Activité militaire, forte présence de moyens aériens (chasse, transport, hélicoptères, drones), brouillage GNSS/communications
+* Activation: ZRT CENTRE HIGH/BRIVAIR/LIMOGEAIR/FLOURAIR/FLOURAIR HIGH: chaque jour d'activité de 1045 à 1400
+*             ZRT CORRIDOR HA 4310: créneaux variables selon jour (voir SUP AIP)
+*             ZRT CORRIDOR HA CENTRE-42: chaque jour d'activité de 1030 à 1230
+*             ZRT CASTELJALOUX/166 A1/A2/B: créneaux variables selon jour (voir SUP AIP)
+* Contact: Clermont Info/App 122.225-119.375-133.725 MHz / Limoges Info 124.050 MHz / Limoges App 118.080 MHz / Aquitaine Info 120.575 MHz / Marsan App 119.700 MHz
+
+
+
+
+
+* ZRT CASTELJALOUX
+AC R
+AN ZRT CASTELJALOUX
+AL 800FT ASFC
+AH 2100FT AMSL
+DP 44:32:15 N 000:09:46 W
+DP 44:30:55 N 000:04:34 W
+DP 44:27:41 N 000:08:01 E
+DP 44:17:38 N 000:18:00 E
+DP 44:06:51 N 000:04:00 E
+DP 44:06:30 N 000:06:00 W
+DP 44:10:00 N 000:07:00 W
+DP 44:20:00 N 000:07:00 E
+DP 44:32:15 N 000:09:46 W
+
+
+
+*------------- SUP AIP 191/26 -------------------------
+* ZRT 'LE BLANC GIGN' - Infiltration sous voile GIGN - région Le Blanc (36)
+* SUP AIP 191/26 - Valide du 10/09/2026 au 01/06/2027
+* Activité: Entraînement chute libre et dérive sous voile du GIGN
+* Activation: Tous les jours 0600-2200 - Activable par NOTAM avec préavis de 72h
+* Note: ZRT LE BLANC 2 et LE BLANC 3 non activables simultanément
+* Contact: Poitiers Info 124.000 MHz / Limoges Info 124.050 MHz / Bordeaux CTL 127.675 MHz / RAKI (CDC Cinq Mars La Pile) 142.550/317.500 MHz
+
+* ZRT LE BLANC 1
+AC R
+AN ZRT LE BLANC 1
+AL SFC
+AH 4500FT AMSL
+DP 46:46:24 N 000:46:21 E
+DP 46:46:21 N 000:50:14 E
+DP 46:51:21 N 000:52:12 E
+DP 46:51:21 N 000:47:50 E
+DP 46:49:42 N 000:46:25 E
+DP 46:46:24 N 000:46:21 E
+
+* ZRT LE BLANC 2
+AC R
+AN ZRT LE BLANC 2
+AL 4500FT AMSL
+AH FL140
+DP 46:51:21 N 000:47:50 E
+DP 46:51:20 N 001:18:25 E
+DP 46:39:00 N 001:25:00 E
+DP 46:34:00 N 001:24:13 E
+DP 46:37:37 N 000:46:11 E
+DP 46:49:42 N 000:46:25 E
+DP 46:51:21 N 000:47:50 E
+
+* ZRT LE BLANC 3 - Non-concomitance avec la R7C
+AC R
+AN ZRT LE BLANC 3
+AL 4500FT AMSL
+AH FL175
+DP 46:51:21 N 000:47:50 E
+DP 46:51:20 N 001:18:25 E
+DP 46:39:00 N 001:25:00 E
+DP 46:34:00 N 001:24:13 E
+DP 46:37:37 N 000:46:11 E
+DP 46:49:42 N 000:46:25 E
+DP 46:51:21 N 000:47:50 E
+
+
+*------------- SUP AIP 190/26 -------------------------
+* ZRT MARLY
+* SUP AIP 24/26 - Valide du 010/09/2026 au 31/12/2026
+* Activité: Vols hors vue drone jour et nuit
+* Altitude: SFC/400FT ASFC
+* Téléphone: +33 2 79 58 00 39
+* Activation: Gestionnaire 
+* Contact: Lille Info 126.480 MHz
+
+AC R
+AN ZRT MARLY
+AL SFC
+AH 400FT ASFC
+DP 50:21:12 N 003:32:52 E
+DP 50:21:54 N 003:34:40 E
+DP 50:19:04 N 003:40:39 E
+DP 50:18:03 N 003:39:42 E
+DP 50:18:51 N 003:37:58 E
+DP 50:21:12 N 003:32:52 E
+
+
+* ZRT MAUBEUGE
+* SUP AIP 24/26 - Valide du 10/09/2026 au 31/12/2026
+* Activité: Vols hors vue drone jour et nuit
+* Altitude: SFC/400FT ASFC
+* Téléphone: +33 2 79 58 00 39
+* Activation: Gestionnaire 
+* Contact: Lille Info 126.480 MHz
+
+AC R
+AN ZRT MAUBEUGE
+AL SFC
+AH 400FT ASFC
+DP 50:19:04 N 003:40:39 E
+DP 50:18:07 N 003:42:42 E
+DP 50:18:45 N 003:46:50 E
+DP 50:18:35 N 003:50:14 E
+DP 50:19:53 N 003:55:15 E
+DP 50:17:19 N 004:00:44 E
+DP 50:16:31 N 003:59:24 E
+DP 50:17:43 N 003:57:04 E
+DP 50:19:04 N 003:55:26 E
+DP 50:17:54 N 003:50:35 E
+DP 50:17:09 N 003:41:41 E
+DP 50:18:03 N 003:39:42 E
+DP 50:19:04 N 003:40:39 E
+
+
+* ZRT LE QUESNOY
+* SUP AIP 24/26 - Valide du 10/09/2026 au 31/12/2026
+* Activité: Vols hors vue drone jour et nuit
+* Altitude: SFC/400FT ASFC
+* Téléphone: +33 2 79 58 00 76
+* Activation: Gestionnaire 
+* Contact: Lille Info 126.480 MHz
+
+AC R
+AN ZRT LE QUESNOY
+AL SFC
+AH 400FT ASFC
+DP 50:18:51 N 003:37:58 E
+DP 50:18:03 N 003:39:42 E
+DP 50:16:45 N 003:39:34 E
+DP 50:15:43 N 003:38:43 E
+DP 50:15:36 N 003:37:13 E
+DP 50:15:19 N 003:37:58 E
+DP 50:14:55 N 003:37:37 E
+DP 50:15:20 N 003:36:28 E
+DP 50:15:50 N 003:36:24 E
+DP 50:16:10 N 003:36:46 E
+DP 50:16:07 N 003:38:00 E
+DP 50:18:51 N 003:37:58 E
+
+
+*------------- SUP AIP 153/26 -------------------------
+
+* ZRT BLOIS
+* SUP AIP 153/26 - Valide du 20/07/2026 au 24/12/2026
+* FIR : PARIS (LFFF)
+* Activité : Vols d'aéronef considéré sans équipage à bord en développement
+* Dates et heures d'activité :
+*   - Du 20/07/2026 au 28/08/2026 : 0500-0700 tous les jours sauf samedi, dimanche et jours fériés (1 activation quotidienne max)
+*   - Du 01/09/2026 au 24/12/2026 : activable de SR à SS-1HR (activations de 2h max, 9 activations prévues)
+* Statut : ZRT qui, lorsqu'active, se substitue aux espaces aériens avec lesquels elle interfère
+* Services rendus : information de vol et alerte par Seine Info ou Paris Info
+* Information des usagers : Blois Info 118.455 MHz / Seine Info 127.815 MHz (pendant HOR ATS) / Paris Info 129.625 MHz (hors HOR ATS Seine)
+* Gestionnaire : Gaillard ASA - Tél : 07 59 93 49 49
+* Limites verticales : FL050 / FL110
+
+AC R
+AN ZRT BLOIS
+AL FL050
+AH FL110
+DP 47:44:58 N 001:21:31 E
+DP 47:44:58 N 000:59:17 E
+DP 47:26:32 N 000:55:58 E
+DP 47:26:32 N 001:12:27 E
+DP 47:44:58 N 001:21:31 E
+
+
+
+*------------- SUP AIP 133/26 -------------------------
+* ZRT Drone HNO-B
+* SUP AIP 133/26 - Valide du 22/06/2026 au 31/12/2026
+* Activité: vols hors vue d'un aéronef télépiloté sans équipage à bord entre les Centres Hospitaliers de illefranche-sur-Saône et de Beaujeu (69)
+* Altitude: SFC/330FT ASFC
+* Téléphone: +33 3 79 58 00 52
+* Activation: H24
+* Contact: Delivrone
+
+AC R
+AN ZRT Drone HNO-B
+AL SFC
+AH 330FT ASFC
+DP 46:09:22 N 004:35:24 E
+DP 46:08:54 N 004:34:39 E
+DP 46:07:55 N 004:36:05 E
+DP 46:07:34 N 004:37:51 E
+DP 46:07:02 N 004:38:26 E
+DP 46:06:01 N 004:38:21 E
+DP 46:03:11 N 004:40:48 E
+DP 46:01:40 N 004:40:59 E
+DP 46:01:19 N 004:41:37 E
+DP 46:01:06 N 004:41:50 E
+DP 46:00:46 N 004:41:51 E
+DP 46:00:34 N 004:41:41 E
+DP 46:00:22 N 004:41:41 E
+DP 46:00:22 N 004:41:52 E
+DP 46:00:45 N 004:42:11 E
+DP 46:01:18 N 004:42:01 E
+DP 46:03:36 N 004:41:26 E
+DP 46:06:12 N 004:39:12 E
+DP 46:07:38 N 004:39:04 E
+DP 46:08:16 N 004:37:42 E
+DP 46:08:24 N 004:36:21 E
+DP 46:09:22 N 004:35:24 E
+
+
+*------------- SUP AIP 128/26 -------------------------
+* ZRT Rouen
+* SUP AIP 128/26 - Valide du 01/07/2026 au 31/12/2027
+* Activite: vols d'aeronefs sans equipage a bord hors vue de jour et de nuit afin d'acheminer des defibrillateurs en coordination avec le SAMU 76.
+* Altitude: SFC/330FT ASFC
+* Telephone: +33 2 79 58 01 19
+* Activation: H24
+* Contact: Delivrone / ROUEN TWR 120.200 MHz / LILLE INFO 134.825 MHz
+
+AC R
+AN ZRT ROUEN
+AL SFC
+AH 330FT ASFC
+DP 49:27:13 N 001:14:08 E
+V D=-
+V X=49:27:47 N 001:07:08 E
+DB 49:27:13 N 001:14:08 E,49:23:23 N 001:08:54 E
+DP 49:27:13 N 001:14:08 E
+
+
+
+
+*------------- NOTAM R1511/26 -------------------------
+* ZRT CRUCEY
+* NOTAM LFFA-R1511/26 - Valide du 28/05/2026 au 31/03/2027
+* Activité: Activité militaire
+* Altitude: SFC/2600FT AMSL
+* Téléphone: +33 6 76 78 94 41
+* Activation: H24
+* Contact: Lille Info 134.850 MHz / Evreux App 118.125 MHz / Seine Info 127.815 MHz
+
+AC R
+AN ZRT CRUCEY
+AL SFC
+AH 2600FT AMSL
+V X=48:38:42 N 001:05:59 E
+DC 3
+
+
+*------------- NOTAM R0693/26 -------------------------
+* ZRT DREUX-SENONCHES
+* NOTAM LFFA-R0693/26 - Valide du 31/03/2026 au 22/10/2026
+* Activité: VOLS AERONEFS SANS EQUIPAGE A BORD 
+* Altitude: SFC/2600FT AMSL
+* Téléphone: +33 7 64 86 92 53
+* Activation: SR - 1300
+* Contact: Lille Info 134.825 MHz / Seine Info 127.815 MHz
+
+AC R
+AN ZRT DREUX-SENONCHES
+AL SFC
+AH 2600FT AMSL
+V X=48:38:42 N 001:05:59 E
+DC 1
+
+
+*------------- SUP AIP 120/26 -------------------------
+* ZRT LA CHAUME
+* SUP AIP 120/26 - Valide du 15/06/2026 au 12/04/2028
+* Activité: Campagnes de vols d'aéronefs sans équipage à bord, hors vue de jour et de nuit
+* Altitude: SFC/2800FT AMSL
+* Téléphone: +33 3 29 73 56 59 / +33 7 72 06 23 96
+* Activation: H24 sauf week-end et jours fériés
+* Contact: Etain App 120.125 MHz / Strasbourg Info 119.450 MHz / Paris Info 125.700 MHz
+
+AC R
+AN ZRT LA CHAUME
+AL SFC
+AH 2800FT AMSL
+DP 49:08:35 N 005:13:40 E
+DP 49:06:58 N 005:14:36 E
+DP 49:07:01 N 005:15:48 E
+DP 49:07:29 N 005:17:16 E
+DP 49:07:56 N 005:17:35 E
+DP 49:08:24 N 005:18:36 E
+DP 49:09:14 N 005:20:40 E
+DP 49:09:49 N 005:20:51 E
+DP 49:10:18 N 005:20:31 E
+DP 49:10:47 N 005:20:09 E
+DP 49:10:46 N 005:19:12 E
+DP 49:09:53 N 005:17:54 E
+DP 49:09:22 N 005:17:28 E
+DP 49:09:09 N 005:16:41 E
+DP 49:08:26 N 005:15:10 E
+DP 49:08:35 N 005:13:40 E
+
+
+
+*------------- SUP AIP 112/26 -------------------------
+* ZRT PAMIERS-SAVERDUN
+* SUP AIP 112/26 - Valide du 04/06/2026 au 31/12/2026
+* Activité: Vol d'aéronefs sans équipage à bord en grande élongation
+* Altitude: SFC/400FT ASFC
+* Téléphone: +33 6 09 45 42 35 (directeur des vols) / +33 6 31 30 37 22 (adjoint)
+* Activation: Lun-Ven sf JF - 04/06-23/10: 0730-0930 et 1115-1315 / 26/10-31/12: 0830-1030 et 1215-1415
+* Contact: Toulouse Info 121.250 MHz / Pamiers AFIS 118.180 MHz
+
+AC R
+AN ZRT PAMIERS-SAVERDUN
+AL SFC
+AH 400FT ASFC
+DP 43:15:55 N 001:32:15 E
+DP 43:16:11 N 001:35:42 E
+DP 43:14:25 N 001:35:57 E
+DP 43:14:14 N 001:33:38 E
+DP 43:09:27 N 001:34:07 E
+DP 43:07:12 N 001:34:54 E
+DP 43:06:44 N 001:35:40 E
+DP 43:06:42 N 001:36:08 E
+DP 43:06:30 N 001:36:31 E
+DP 43:06:30 N 001:37:24 E
+DP 43:06:01 N 001:37:34 E
+DP 43:05:36 N 001:36:13 E
+DP 43:05:37 N 001:35:16 E
+DP 43:06:01 N 001:34:23 E
+DP 43:06:35 N 001:33:36 E
+DP 43:07:31 N 001:33:03 E
+DP 43:09:17 N 001:32:33 E
+DP 43:13:37 N 001:32:00 E
+DP 43:15:55 N 001:32:15 E
+
+
+* ZRT PAMIERS-ST GIRONS
+* SUP AIP 112/26 - Valide du 04/06/2026 au 31/12/2026
+* Activité: Vol d'aéronefs sans équipage à bord en grande élongation
+* Altitude: SFC/400FT ASFC
+* Téléphone: +33 6 09 45 42 35 (directeur des vols) / +33 6 31 30 37 22 (adjoint)
+* Activation: Lun-Ven sf JF - 04/06-23/10: 0900-1400 / 26/10-31/12: 1000-1500 - NOTAM 72h
+* Contact: Toulouse Info 121.250 MHz / Pamiers AFIS 118.180 MHz
+
+AC R
+AN ZRT PAMIERS-ST GIRONS
+AL SFC
+AH 400FT ASFC
+DP 42:59:43 N 001:08:14 E
+DP 42:58:30 N 001:08:49 E
+DP 43:05:38 N 001:37:45 E
+DP 43:06:37 N 001:37:22 E
+DP 43:06:44 N 001:35:43 E
+DP 43:06:14 N 001:34:40 E
+DP 42:59:43 N 001:08:14 E
+
+
+* ZRT PAMIERS-LAVELANET
+* SUP AIP 112/26 - Valide du 04/06/2026 au 31/12/2026
+* Activité: Vol d'aéronefs sans équipage à bord en grande élongation
+* Altitude: SFC/400FT ASFC
+* Téléphone: +33 6 09 45 42 35 (directeur des vols) / +33 6 31 30 37 22 (adjoint)
+* Activation: Lun-Ven sf JF - 04/06-23/10: 0900-1400 / 26/10-31/12: 1000-1500 - NOTAM 72h
+* Contact: Toulouse Info 121.250 MHz / Pamiers AFIS 118.180 MHz
+
+AC R
+AN ZRT PAMIERS-LAVELANET
+AL SFC
+AH 400FT ASFC
+DP 43:06:37 N 001:37:22 E
+DP 43:05:38 N 001:37:45 E
+DP 43:04:40 N 001:36:46 E
+DP 43:03:12 N 001:43:24 E
+DP 42:56:42 N 001:52:00 E
+DP 42:55:52 N 001:50:46 E
+DP 43:02:13 N 001:42:03 E
+DP 43:02:41 N 001:39:51 E
+DP 43:02:47 N 001:38:30 E
+DP 43:03:16 N 001:35:34 E
+DP 43:04:51 N 001:35:06 E
+DP 43:06:14 N 001:34:42 E
+DP 43:06:44 N 001:35:42 E
+DP 43:06:37 N 001:37:22 E
+
+
+
+
+
+
+*------------- SUP AIP 111/26 -------------------------
+* ZRT FIRMINY
+* SUP AIP 111/26 - Valide du 08/06/2026 au 31/12/2026
+* Activité: Vols d'aéronefs sans équipage à bord hors vue de jour et de nuit
+* Altitude: SFC/2300FT AMSL
+* Téléphone: +33 9 71 18 54 25 (Hexadrone)
+* Activation: Lun-Ven sf JF - 08/06-23/10/2026: 0630-1630 / 26/10-31/12/2026: 0730-1730
+* Contact: Clermont Info 120.500 MHz
+
+AC R
+AN ZRT FIRMINY
+AL SFC
+AH 2300FT AMSL
+DP 45:21:15 N 004:15:03 E
+DP 45:21:02 N 004:14:06 E
+DP 45:21:36 N 004:13:51 E
+DP 45:21:50 N 004:14:46 E
+DP 45:21:15 N 004:15:03 E
+
+
+
+
+
+
+
+*------------- SUP AIP 101/26 -------------------------
+* ZRT/ZDT SMDM-EMSA MER DE MANCHE
+* SUP AIP 101/26 - Valide du 14/05/2026 au 14/05/2027
+* Activité: Surveillance maritime, recherche, sauvetage en mer et assistance(BVLOS)
+* Altitude: SFC/1000FT ASFC
+* Téléphone: +33 2 33 92 60 40
+* Activation: CENTOPS MANCHE
+* Contact: Lille Info 127.015 / 132.610 /Lille APP: 120,275 MHz
+
+
+
+* --------------------------------------------------------------------
+* LF-R 396 "Baie de Somme Sud" Tempo - SFC / 1000 ft AMSL
+* --------------------------------------------------------------------
+AC R
+AN LF-R 396 Baie de Somme Sud Tempo
+AH 1000ft AMSL
+AL SFC
+DP 50:17:24 N 001:10:52 E
+DP 50:08:00 N 001:25:31 E
+DP 50:06:26 N 001:24:04 E
+DP 50:04:49 N 001:20:49 E
+DP 50:02:48 N 001:16:57 E
+DP 49:59:33 N 001:11:07 E
+DP 49:57:02 N 001:04:02 E
+DP 49:56:37 N 000:58:49 E
+DP 49:56:29 N 000:57:06 E
+DP 49:56:04 N 000:55:39 E
+DP 49:55:13 N 000:52:58 E
+DP 50:04:45 N 000:43:00 E
+DP 50:05:33 N 000:47:17 E
+DP 50:07:01 N 000:52:26 E
+DP 50:07:31 N 000:58:59 E
+DP 50:09:11 N 001:02:35 E
+DP 50:11:31 N 001:06:16 E
+DP 50:13:00 N 001:09:20 E
+DP 50:13:17 N 001:09:52 E
+DP 50:15:21 N 001:10:06 E
+DP 50:17:24 N 001:10:52 E
+
+* --------------------------------------------------------------------
+* LF-R 397 "Baie de Somme Nord" Tempo - SFC / 1000 ft AMSL
+* --------------------------------------------------------------------
+AC R
+AN LF-R 397 Baie de Somme Nord Tempo
+AH 1000ft AMSL
+AL SFC
+DP 50:36:32 N 001:19:01 E
+DP 50:32:59 N 001:22:21 E
+DP 50:27:12 N 001:31:44 E
+DP 50:16:59 N 001:30:38 E
+DP 50:13:54 N 001:28:21 E
+DP 50:09:28 N 001:26:52 E
+DP 50:08:00 N 001:25:31 E
+DP 50:17:24 N 001:10:52 E
+DP 50:19:01 N 001:11:43 E
+DP 50:20:46 N 001:13:08 E
+DP 50:24:57 N 001:13:16 E
+DP 50:29:00 N 001:14:58 E
+DP 50:34:58 N 001:14:59 E
+DP 50:36:32 N 001:19:01 E
+
+* --------------------------------------------------------------------
+* LF-R 400A "DEP Dunkerque" Tempo - SFC / 500 ft AMSL
+* --------------------------------------------------------------------
+AC R
+AN LF-R 400A DEP Dunkerque Tempo
+AH 500ft AMSL
+AL SFC
+DP 51:03:02 N 002:20:50 E
+DP 51:05:46 N 002:20:50 E
+DP 51:07:00 N 002:00:00 E
+DP 51:05:00 N 002:00:00 E
+DP 51:03:02 N 002:20:50 E
+
+* --------------------------------------------------------------------
+* LF-R 400B "DEP Gris-Nez" Tempo - SFC / 500 ft AMSL
+* --------------------------------------------------------------------
+AC R
+AN LF-R 400B DEP Gris-Nez Tempo
+AH 500ft AMSL
+AL SFC
+DP 50:53:49 N 001:34:50 E
+DP 50:52:34 N 001:36:52 E
+DP 50:50:41 N 001:35:06 E
+DP 50:51:37 N 001:33:01 E
+DP 50:52:13 N 001:33:00 E
+DP 50:53:00 N 001:33:43 E
+DP 50:53:49 N 001:34:50 E
+
+* --------------------------------------------------------------------
+* LF-R 400C "DEP Boulogne" Tempo - SFC / 500 ft AMSL
+* Note : si active -> aérodrome LF6251 et aéromodélisme N°8345 Alprech le Portel suspendus
+* --------------------------------------------------------------------
+AC R
+AN LF-R 400C DEP Boulogne Tempo
+AH 500ft AMSL
+AL SFC
+DP 50:43:28 N 001:32:33 E
+DP 50:42:45 N 001:34:22 E
+DP 50:41:41 N 001:34:51 E
+DP 50:40:45 N 001:34:10 E
+DP 50:39:45 N 001:32:39 E
+DP 50:41:53 N 001:31:49 E
+DP 50:43:28 N 001:32:33 E
+
+* --------------------------------------------------------------------
+* LF-R 400D "DEP Hourdel" Tempo - SFC / 500 ft AMSL
+* Note : si active -> plateforme aérostatique Amiens Balloon de Hourdel suspendue
+* --------------------------------------------------------------------
+AC R
+AN LF-R 400D DEP Hourdel Tempo
+AH 500ft AMSL
+AL SFC
+DP 50:13:54 N 001:28:21 E
+DP 50:13:20 N 001:36:56 E
+DP 50:10:37 N 001:34:57 E
+DP 50:10:44 N 001:27:17 E
+DP 50:13:54 N 001:28:21 E
+
+* --------------------------------------------------------------------
+* LF-R 400E "DEP Ault" Tempo - SFC / 500 ft AMSL
+* --------------------------------------------------------------------
+AC R
+AN LF-R 400E DEP Ault Tempo
+AH 500ft AMSL
+AL SFC
+DP 50:06:26 N 001:24:04 E
+DP 50:06:23 N 001:27:28 E
+DP 50:06:57 N 001:28:26 E
+DP 50:09:28 N 001:26:52 E
+DP 50:06:26 N 001:24:04 E
+
+* --------------------------------------------------------------------
+* LF-R 400F "DEP Ailly" Tempo - SFC / 500 ft AMSL
+* --------------------------------------------------------------------
+AC R
+AN LF-R 400F DEP Ailly Tempo
+AH 500ft AMSL
+AL SFC
+DP 49:56:37 N 000:58:49 E
+DP 49:54:24 N 000:58:40 E
+DP 49:54:07 N 000:56:24 E
+DP 49:56:04 N 000:55:39 E
+DP 49:56:29 N 000:57:06 E
+DP 49:56:37 N 000:58:49 E
+
+* --------------------------------------------------------------------
+* LF-R 400G "Graveline" Tempo - 500 ft / 1500 ft AMSL
+* Activation par NOTAM à J-1
+* --------------------------------------------------------------------
+AC R
+AN LF-R 400G Graveline Tempo
+AH 1500ft AMSL
+AL 500ft AMSL
+DP 51:05:00 N 002:00:00 E
+DP 51:07:00 N 002:00:00 E
+DP 51:06:14 N 002:15:32 E
+DP 51:03:35 N 002:15:04 E
+DP 51:05:00 N 002:00:00 E
+
+* --------------------------------------------------------------------
+* LF-R 401A "Manche Sud" LOW Tempo - SFC / 1000 ft AMSL
+* --------------------------------------------------------------------
+AC R
+AN LF-R 401A Manche Sud LOW Tempo
+AH 1000ft AMSL
+AL SFC
+DP 50:57:27 N 001:24:03 E
+DP 50:54:04 N 001:31:10 E
+DP 50:45:26 N 001:28:02 E
+DP 50:36:32 N 001:19:01 E
+DP 50:34:58 N 001:14:59 E
+DP 50:38:10 N 001:14:59 E
+DP 50:41:24 N 001:14:57 E
+DP 50:43:27 N 001:19:30 E
+DP 50:57:27 N 001:24:03 E
+
+* --------------------------------------------------------------------
+* LF-R 401B "Manche Sud" HIGH Tempo - SFC / 1500 ft AMSL
+* Note : non activable simultanément avec LF-R 402B
+* --------------------------------------------------------------------
+AC R
+AN LF-R 401B Manche Sud HIGH Tempo
+AH 1500ft AMSL
+AL SFC
+DP 50:57:27 N 001:24:03 E
+DP 50:54:04 N 001:31:10 E
+DP 50:45:26 N 001:28:02 E
+DP 50:36:32 N 001:19:01 E
+DP 50:34:58 N 001:14:59 E
+DP 50:38:10 N 001:14:59 E
+DP 50:41:24 N 001:14:57 E
+DP 50:43:27 N 001:19:30 E
+DP 50:57:27 N 001:24:03 E
+
+* --------------------------------------------------------------------
+* LF-R 401C "Côtier Sud" Tempo - SFC / 1000 ft AMSL
+* --------------------------------------------------------------------
+AC R
+AN LF-R 401C Cotier Sud Tempo
+AH 1000ft AMSL
+AL SFC
+DP 50:54:04 N 001:31:10 E
+DP 50:53:00 N 001:33:43 E
+DP 50:52:13 N 001:33:00 E
+DP 50:50:58 N 001:33:02 E
+DP 50:47:37 N 001:34:13 E
+DP 50:43:28 N 001:32:33 E
+DP 50:41:53 N 001:31:49 E
+DP 50:39:45 N 001:32:39 E
+DP 50:32:55 N 001:22:15 E
+DP 50:36:32 N 001:19:01 E
+DP 50:45:26 N 001:28:02 E
+DP 50:54:04 N 001:31:10 E
+
+* --------------------------------------------------------------------
+* LF-R 402A "Manche Nord" LOW Tempo - SFC / 1000 ft AMSL
+* --------------------------------------------------------------------
+AC R
+AN LF-R 402A Manche Nord LOW Tempo
+AH 1000ft AMSL
+AL SFC
+DP 51:05:00 N 002:00:00 E
+DP 50:57:32 N 001:38:31 E
+DP 50:55:53 N 001:33:46 E
+DP 50:54:04 N 001:31:10 E
+DP 50:57:27 N 001:24:03 E
+DP 51:00:00 N 001:28:00 E
+DP 51:02:15 N 001:32:48 E
+DP 51:04:51 N 001:40:23 E
+DP 51:05:54 N 001:43:26 E
+DP 51:08:01 N 001:46:49 E
+DP 51:10:43 N 002:00:00 E
+DP 51:05:00 N 002:00:00 E
+
+* --------------------------------------------------------------------
+* LF-R 402B "Manche Nord" HIGH Tempo - 1000 ft / 1500 ft AMSL
+* Note : non activable simultanément avec LF-R 401B
+* --------------------------------------------------------------------
+AC R
+AN LF-R 402B Manche Nord HIGH Tempo
+AH 1500ft AMSL
+AL 1000ft AMSL
+DP 51:05:00 N 002:00:00 E
+DP 50:57:32 N 001:38:31 E
+DP 50:55:53 N 001:33:46 E
+DP 50:54:04 N 001:31:10 E
+DP 50:57:27 N 001:24:03 E
+DP 51:00:00 N 001:28:00 E
+DP 51:02:15 N 001:32:48 E
+DP 51:04:51 N 001:40:23 E
+DP 51:05:54 N 001:43:26 E
+DP 51:08:01 N 001:46:49 E
+DP 51:10:43 N 002:00:00 E
+DP 51:05:00 N 002:00:00 E
+
+* --------------------------------------------------------------------
+* LF-R 402C "Côtier Nord" Tempo - SFC / 1000 ft AMSL
+* --------------------------------------------------------------------
+AC R
+AN LF-R 402C Cotier Nord Tempo
+AH 1000ft AMSL
+AL SFC
+DP 51:01:27 N 001:49:45 E
+DP 50:59:20 N 001:49:57 E
+DP 50:58:01 N 001:44:22 E
+DP 50:54:14 N 001:37:35 E
+DP 50:53:49 N 001:34:50 E
+DP 50:53:00 N 001:33:43 E
+DP 50:54:04 N 001:31:10 E
+DP 50:55:53 N 001:33:46 E
+DP 51:01:27 N 001:49:45 E
+
+* --------------------------------------------------------------------
+* LF-R 402D "Manche Nord extended" Tempo - 1500 ft / 2500 ft AMSL
+* Activation par NOTAM à J-1
+* --------------------------------------------------------------------
+AC R
+AN LF-R 402D Manche Nord extended Tempo
+AH 2500ft AMSL
+AL 1500ft AMSL
+DP 51:07:00 N 002:00:00 E
+DP 51:04:43 N 001:49:27 E
+DP 50:59:45 N 001:43:53 E
+DP 51:03:24 N 001:36:11 E
+DP 51:05:54 N 001:43:26 E
+DP 51:08:01 N 001:46:49 E
+DP 51:10:43 N 002:00:00 E
+DP 51:07:00 N 002:00:00 E
+
+* ====================================================================
+* ZONES DANGEREUSES TEMPORAIRES (ZDT / LF-D)
+* ====================================================================
+
+* --------------------------------------------------------------------
+* LF-D 398A "Picardie Sud" LOW Tempo - SFC / 1000 ft AMSL
+* --------------------------------------------------------------------
+AC D
+AN LF-D 398A Picardie Sud LOW Tempo
+AH 1000ft AMSL
+AL SFC
+DP 50:28:08 N 000:57:19 E
+DP 50:17:24 N 001:10:52 E
+DP 50:15:21 N 001:10:06 E
+DP 50:13:17 N 001:09:52 E
+DP 50:13:00 N 001:09:20 E
+DP 50:11:31 N 001:06:16 E
+DP 50:09:11 N 001:02:35 E
+DP 50:07:31 N 000:58:59 E
+DP 50:07:01 N 000:52:26 E
+DP 50:05:33 N 000:47:17 E
+DP 50:04:45 N 000:43:00 E
+DP 50:17:23 N 000:29:35 E
+DP 50:28:08 N 000:57:19 E
+
+* --------------------------------------------------------------------
+* LF-D 398B "Picardie Sud" HIGH Tempo - 1000 ft / 1500 ft AMSL
+* --------------------------------------------------------------------
+AC D
+AN LF-D 398B Picardie Sud HIGH Tempo
+AH 1500ft AMSL
+AL 1000ft AMSL
+DP 50:28:08 N 000:57:19 E
+DP 50:17:24 N 001:10:52 E
+DP 50:15:21 N 001:10:06 E
+DP 50:13:17 N 001:09:52 E
+DP 50:13:00 N 001:09:20 E
+DP 50:11:31 N 001:06:16 E
+DP 50:09:11 N 001:02:35 E
+DP 50:07:31 N 000:58:59 E
+DP 50:07:01 N 000:52:26 E
+DP 50:05:33 N 000:47:17 E
+DP 50:04:45 N 000:43:00 E
+DP 50:17:23 N 000:29:35 E
+DP 50:28:08 N 000:57:19 E
+
+* --------------------------------------------------------------------
+* LF-D 399A "Picardie Nord" LOW Tempo - SFC / 1000 ft AMSL
+* --------------------------------------------------------------------
+AC D
+AN LF-D 399A Picardie Nord LOW Tempo
+AH 1000ft AMSL
+AL SFC
+DP 50:28:08 N 000:57:19 E
+DP 50:34:58 N 001:14:59 E
+DP 50:29:00 N 001:14:58 E
+DP 50:24:57 N 001:13:16 E
+DP 50:20:46 N 001:13:08 E
+DP 50:19:01 N 001:11:43 E
+DP 50:17:24 N 001:10:52 E
+DP 50:28:08 N 000:57:19 E
+
+* --------------------------------------------------------------------
+* LF-D 399B "Picardie Nord" HIGH Tempo - 1000 ft / 1500 ft AMSL
+* --------------------------------------------------------------------
+AC D
+AN LF-D 399B Picardie Nord HIGH Tempo
+AH 1500ft AMSL
+AL 1000ft AMSL
+DP 50:28:08 N 000:57:19 E
+DP 50:34:58 N 001:14:59 E
+DP 50:29:00 N 001:14:58 E
+DP 50:24:57 N 001:13:16 E
+DP 50:20:46 N 001:13:08 E
+DP 50:19:01 N 001:11:43 E
+DP 50:17:24 N 001:10:52 E
+DP 50:28:08 N 000:57:19 E
+
+
+
+*------------- SUP AIP 095/26 -------------------------
+* ZRT AUBENAS 1
+* SUP AIP 095/26 - Valide du 18/05/2026 au 31/12/2026
+* Activité: Vols d'aéronefs sans équipage à bord hors vue de jour - Transport de colis
+* Altitude: SFC/400FT ASFC
+* Téléphone: +33 6 09 45 42 35 (directeur des opérations) / +33 6 31 30 37 22 (adjoint)
+* Activation: Lun-Ven sf jours fériés 0700-1500 (HIV +1HR) - NOTAM 48h
+* Contact: Gestionnaire INNOV'ATM
+
+AC R
+AN ZRT AUBENAS 1
+AL SFC
+AH 400FT ASFC
+DP 44:37:15 N 004:24:23 E
+DP 44:37:03 N 004:24:28 E
+DP 44:36:44 N 004:25:34 E
+DP 44:36:41 N 004:26:17 E
+DP 44:37:08 N 004:27:44 E
+DP 44:36:50 N 004:28:30 E
+DP 44:35:24 N 004:28:06 E
+DP 44:34:45 N 004:28:22 E
+DP 44:33:41 N 004:29:16 E
+DP 44:33:40 N 004:29:34 E
+DP 44:34:32 N 004:29:56 E
+DP 44:35:07 N 004:29:24 E
+DP 44:37:14 N 004:29:46 E
+DP 44:38:03 N 004:28:01 E
+DP 44:37:35 N 004:25:45 E
+DP 44:37:28 N 004:24:41 E
+DP 44:37:15 N 004:24:23 E
+
+
+* ZRT AUBENAS 2
+* SUP AIP 095/26 - Valide du 18/05/2026 au 31/12/2026
+* Activité: Vols d'aéronefs sans équipage à bord hors vue de jour - Transport de colis
+* Altitude: SFC/400FT ASFC
+* Téléphone: +33 6 09 45 42 35 (directeur des opérations) / +33 6 31 30 37 22 (adjoint)
+* Activation: Lun-Ven sf jours fériés 0700-1500 (HIV +1HR) - NOTAM 48h
+* Contact: Gestionnaire INNOV'ATM
+
+AC R
+AN ZRT AUBENAS 2
+AL SFC
+AH 400FT ASFC
+DP 44:39:25 N 004:21:54 E
+DP 44:39:04 N 004:22:21 E
+DP 44:39:55 N 004:24:19 E
+DP 44:40:37 N 004:26:52 E
+DP 44:40:24 N 004:27:40 E
+DP 44:38:51 N 004:27:12 E
+DP 44:37:34 N 004:26:01 E
+DP 44:37:27 N 004:24:30 E
+DP 44:37:01 N 004:24:23 E
+DP 44:36:48 N 004:25:17 E
+DP 44:36:36 N 004:26:32 E
+DP 44:38:24 N 004:28:17 E
+DP 44:39:55 N 004:28:49 E
+DP 44:40:52 N 004:28:51 E
+DP 44:41:35 N 004:26:56 E
+DP 44:40:28 N 004:23:00 E
+DP 44:39:25 N 004:21:54 E
+
+
+
+*------------- SUP AIP 084/26 -------------------------
+* ZRT SALBRIS
+* SUP AIP 084/26 - Valide du 07/05/2026 au 06/05/2027
+* Activité: Évolutions d'aéronefs d'État sans équipage à bord, hors vue (BVLOS)
+* Altitude: SFC/3400FT AMSL
+* Téléphone: +33 2 45 40 71 14
+* Activation: Notam avec préavis de 48h
+* Contact: Paris Info : 126.100 MHz
+
+
+AC R
+AN ZRT SALBRIS
+AH 3400ft AMSL
+AL SFC
+V X=47:26:06 N 002:02:40 E
+DP 47:26:06 N 002:02:40 E
+DP 47:25:54 N 002:02:18 E
+DP 47:26:07 N 002:01:19 E
+DP 47:26:32 N 002:00:31 E
+DP 47:27:51 N 002:00:27 E
+DP 47:29:10 N 002:00:52 E
+DP 47:29:07 N 002:02:12 E
+DP 47:26:06 N 002:02:40 E
+
+
+
+
+
+
+*------------- SUP AIP 076/26 -------------------------
+* SUP AIP 076/26 - Date de publication : 16 APR 2026
+* Zones Réglementées Temporaires (ZRT) et Zones Dangereuses Temporaires (ZDT)
+* Vols hors vue d'aéronefs sans équipage à bord - Surveillance maritime Marine nationale
+* En vigueur : 27 avril 2026 0000 UTC au 26 avril 2027 2359 UTC
+* FIR : Brest LFRR / Paris LFFF
+* Activation par NOTAM avec préavis de 24h
+* Contact CENTOPS MANCHE : +33 (0)2 33 92 60 40
+
+*
+* ZRT/ZDT RADE DE CAEN
+*
+AC R
+AN ZRT/ZDT RADE DE CAEN
+AH 2000ft AMSL
+AL SFC
+DP 49:34:15 N 000:47:02 W
+DP 49:32:21 N 000:18:45 W
+DP 49:20:00 N 000:03:15 W
+DP 49:19:17 N 000:13:21 W
+DP 49:22:05 N 000:22:00 W
+DP 49:23:00 N 000:45:56 W
+DP 49:34:15 N 000:47:02 W
+
+*
+* ZRT/ZDT RADE DE CAPELLE
+*
+AC R
+AN ZRT/ZDT RADE DE CAPELLE
+AH 2000ft AMSL
+AL SFC
+DP 49:49:45 N 000:45:00 W
+DP 49:49:00 N 000:27:52 W
+DP 49:34:43 N 000:55:07 W
+DP 49:22:50 N 000:48:45 W
+DP 49:25:23 N 000:55:06 W
+DP 49:26:10 N 001:02:00 W
+DP 49:25:51 N 001:07:05 W
+DP 49:32:05 N 001:13:50 W
+DP 49:36:40 N 001:11:00 W
+DP 49:39:50 N 001:12:00 W
+DP 49:42:30 N 001:14:15 W
+DP 49:44:30 N 001:12:30 W
+DP 49:49:15 N 000:57:30 W
+DP 49:49:45 N 000:45:00 W
+
+*
+* ZRT/ZDT CAP LEVY
+*
+AC R
+AN ZRT/ZDT CAP LEVY
+AH 2000ft AMSL
+AL SFC
+DP 49:49:15 N 000:57:30 W
+DP 50:00:00 N 000:57:30 W
+DP 50:00:00 N 001:38:10 W
+DP 49:44:00 N 001:38:10 W
+DP 49:44:00 N 001:29:07 W
+DP 49:44:47 N 001:21:50 W
+DP 49:43:15 N 001:15:11 W
+DP 49:42:30 N 001:14:15 W
+DP 49:44:30 N 001:12:30 W
+DP 49:49:15 N 000:57:30 W
+
+*
+* ZRT/ZDT CAP DE LA HAGUE
+*
+AC R
+AN ZRT/ZDT CAP DE LA HAGUE
+AH 2000ft AMSL
+AL SFC
+DP 50:00:00 N 001:38:10 W
+DP 49:44:00 N 001:38:10 W
+DP 49:44:00 N 001:49:26 W
+DP 49:45:55 N 002:00:00 W
+DP 50:00:00 N 002:00:00 W
+DP 50:00:00 N 001:38:10 W
+
+*
+* ZRT VAUVILLE
+*
+AC R
+AN ZRT VAUVILLE
+AH 2000ft AMSL
+AL SFC
+DP 49:40:19 N 002:00:00 W
+DP 49:39:33 N 001:56:19 W
+DP 49:38:33 N 001:53:58 W
+DP 49:34:55 N 001:52:47 W
+DP 49:32:22 N 001:55:02 W
+DP 49:30:00 N 001:55:00 W
+DP 49:30:00 N 002:00:00 W
+DP 49:32:24 N 002:00:00 W
+DP 49:40:19 N 002:00:00 W
+
+*
+* ZRT COTENTIN
+*
+AC R
+AN ZRT COTENTIN
+AH 2000ft AMSL
+AL SFC
+DP 49:30:00 N 002:00:00 W
+DP 49:30:00 N 001:55:00 W
+DP 49:28:14 N 001:53:39 W
+DP 49:23:56 N 001:51:58 W
+DP 49:21:36 N 001:50:56 W
+DP 49:19:39 N 001:48:09 W
+DP 49:18:54 N 001:52:03 W
+DP 49:30:00 N 002:00:00 W
+
+*
+* ZRT COUTAINVILLE
+*
+AC R
+AN ZRT COUTAINVILLE
+AH 2000ft AMSL
+AL SFC
+DP 49:19:39 N 001:48:09 W
+DP 49:17:11 N 001:42:31 W
+DP 49:13:21 N 001:40:12 W
+DP 49:07:59 N 001:38:30 W
+DP 49:02:00 N 001:37:21 W
+DP 49:02:00 N 001:40:00 W
+DP 49:18:54 N 001:52:03 W
+DP 49:19:39 N 001:48:09 W
+
+*
+* ZRT BREVILLE
+* SUP AIP 076/26 - Valide du 27/04/2026 au 26/04/2027
+* Activité: Drones
+* Altitude: SFC/2000FT AMSL
+* Activation: Notam 30 minutes
+* Téléphone: +33 2 33 92 60 40
+
+
+AC R
+AN ZRT BREVILLE
+AH 2000ft AMSL
+AL SFC
+DP 49:02:00 N 001:37:21 W
+DP 48:58:36 N 001:37:01 W
+DP 48:54:16 N 001:37:01 W
+DP 48:50:33 N 001:38:14 W
+DP 48:47:41 N 001:36:14 W
+DP 48:44:54 N 001:35:49 W
+DP 48:41:20 N 001:32:09 W
+DP 48:39:45 N 001:32:44 W
+DP 48:39:40 N 001:36:23 W
+DP 48:49:00 N 001:49:10 W
+DP 48:51:35 N 002:09:17 W
+DP 48:52:18 N 002:09:15 W
+DP 48:52:20 N 002:09:15 W
+DP 48:52:20 N 002:05:00 W
+DP 48:53:00 N 001:59:00 W
+DP 48:56:30 N 001:59:00 W
+DP 48:57:53 N 001:56:34 W
+DP 49:01:53 N 001:53:16 W
+DP 49:02:00 N 001:52:47 W
+DP 49:02:00 N 001:37:21 W
+
+
+
+* ZRT DEP PORT En BESSIN
+* SUP AIP 076/26 - Valide du 27/04/2026 au 26/04/2027
+* Activité: Drones
+* Altitude: SFC/2000FT AMSL
+* Activation: Notam 30 minutes
+* Téléphone: +33 2 33 92 60 40
+
+
+
+AC R
+AN ZRT/ZDT DEP PORT EN BESSIN
+AH 2000ft AMSL
+AL SFC
+DP 49:34:43 N 000:55:07 W
+DP 49:34:15 N 000:47:02 W
+DP 49:20:30 N 000:45:42 W
+DP 49:20:30 N 000:47:30 W
+DP 49:34:43 N 000:55:07 W
+
+*
+* ZRT DEP CHERBOURG
+*
+AC R
+AN ZRT DEP CHERBOURG
+AH 1000ft AMSL
+AL SFC
+DP 49:44:00 N 001:49:26 W
+DP 49:41:50 N 001:41:29 W
+DP 49:40:31 N 001:42:07 W
+DP 49:39:02 N 001:40:18 W
+DP 49:38:44 N 001:37:44 W
+DP 49:38:52 N 001:36:06 W
+DP 49:39:28 N 001:34:27 W
+DP 49:41:13 N 001:34:01 W
+DP 49:44:00 N 001:29:07 W
+DP 49:44:00 N 001:49:26 W
+
+*
+* ZRT DEP JOBOURG
+*
+AC R
+AN ZRT DEP JOBOURG
+AH 1000ft AMSL
+AL SFC
+DP 49:40:42 N 001:54:43 W
+DP 49:44:22 N 001:51:26 W
+DP 49:44:57 N 001:54:38 W
+DP 49:41:20 N 001:55:57 W
+DP 49:39:50 N 001:57:40 W
+DP 49:39:33 N 001:56:19 W
+DP 49:39:04 N 001:55:11 W
+DP 49:40:42 N 001:54:43 W
+
+*
+* ZRT DEP PORTBAIL
+* SUP AIP 076/26 - Valide du 27/04/2026 au 26/04/2027
+* Activité: Drones
+* Altitude: SFC/*1000FT AMSL
+* Activation: Notam 30 minutes
+* Téléphone: +33 2 33 92 60 40
+
+AC R
+AN ZRT DEP PORTBAIL
+AH 1000ft AMSL
+AL SFC
+DP 49:23:50 N 001:51:55 W
+DP 49:23:50 N 001:51:43 W
+DP 49:23:53 N 001:45:52 W
+DP 49:19:42 N 001:39:40 W
+DP 49:17:11 N 001:42:31 W
+DP 49:19:39 N 001:48:11 W
+DP 49:21:36 N 001:50:56 W
+DP 49:23:50 N 001:51:55 W
+
+
+*------------- SUP AIP 74/26 -------------------------
+* ZRT AUBIAT-SARDON 1
+* SUP AIP 074/26 - Valide du 01/05/2026 au 30/04/2027
+* Activité: Vols d'aéronefs sans équipage à bord hors vue et en vue de jour et de nuit
+* Altitude: SFC/2200FT AMSL
+* Téléphone: +33 7 68 99 79 80 (EOS Technologie)
+* Activation: Lun-Ven sf JF - 04/05-23/10/2026: 0700-1800 / 26/10/2026-26/03/2027: 0800-1900 / 30/03-30/04/2027: 0700-1800
+* Contact: Clermont Info 122.225 MHz
+
+AC R
+AN ZRT AUBIAT-SARDON 1
+AL SFC
+AH 2200FT AMSL
+DP 45:59:44 N 003:12:18 E
+DP 45:57:57 N 003:12:47 E
+DP 45:57:45 N 003:14:26 E
+DP 46:00:51 N 003:18:55 E
+DP 46:02:26 N 003:17:13 E
+DP 45:59:44 N 003:12:18 E
+
+
+* ZRT AUBIAT-SARDON 2
+* SUP AIP 074/26 - Valide du 01/05/2026 au 30/04/2027
+* Activité: Vols d'aéronefs sans équipage à bord hors vue et en vue de jour et de nuit
+* Altitude: SFC/4200FT AMSL
+* Téléphone: +33 7 68 99 79 80 (EOS Technologie)
+* Activation: H24 - Activable par NOTAM
+* Contact: Clermont Info 122.225 MHz
+
+AC R
+AN ZRT AUBIAT-SARDON 2
+AL SFC
+AH 4200FT AMSL
+DP 45:59:44 N 003:12:18 E
+DP 45:57:57 N 003:12:47 E
+DP 45:57:45 N 003:14:26 E
+DP 46:00:51 N 003:18:55 E
+DP 46:02:26 N 003:17:13 E
+DP 45:59:44 N 003:12:18 E
+
+
+
+
+*------------- SUP AIP 67/26 -------------------------
+* ZRT SUD FRANCILIEN 1
+* SUP AIP 067/26 - Valide du 16/04/2026 au 14/04/2027
+* Activité: Vol d'aéronefs sans équipage à bord de grande élongation hors vue
+* Altitude: SFC/500FT ASFC
+* Téléphone: +33 6 63 97 69 09 (Systematic Paris-Region)
+* Activation: Lun-Ven sf jours fériés SR-30 à SS+30 - NOTAM au plus tard vendredi précédent avant 15h00 (ETE -1HR)
+* Contact: Paris Info 126.100 MHz
+
+AC R
+AN ZRT SUD FRANCILIEN 1
+AL SFC
+AH 500FT ASFC
+DP 48:33:42 N 002:20:15 E
+DP 48:32:51 N 002:18:47 E
+DP 48:32:14 N 002:16:03 E
+DP 48:31:32 N 002:14:09 E
+DP 48:31:23 N 002:13:35 E
+DP 48:31:18 N 002:13:37 E
+DP 48:31:09 N 002:13:04 E
+DP 48:31:16 N 002:13:00 E
+DP 48:31:28 N 002:12:53 E
+DP 48:31:36 N 002:12:48 E
+DP 48:31:44 N 002:13:24 E
+DP 48:31:37 N 002:13:28 E
+DP 48:31:45 N 002:14:01 E
+DP 48:32:28 N 002:15:59 E
+DP 48:33:02 N 002:18:36 E
+DP 48:33:47 N 002:19:52 E
+DP 48:33:42 N 002:20:15 E
+
+
+* ZRT SUD FRANCILIEN 2
+* SUP AIP 067/26 - Valide du 16/04/2026 au 14/04/2027
+* Activité: Vol d'aéronefs sans équipage à bord de grande élongation hors vue
+* Altitude: SFC/500FT ASFC
+* Téléphone: +33 6 63 97 69 09 (Systematic Paris-Region)
+* Activation: Lun-Ven sf jours fériés SR-30 à SS+30 - NOTAM au plus tard vendredi précédent avant 15h00 (ETE -1HR)
+* Contact: Paris Info 126.100 MHz
+
+AC R
+AN ZRT SUD FRANCILIEN 2
+AL SFC
+AH 500FT ASFC
+DP 48:31:16 N 002:13:00 E
+DP 48:31:06 N 002:12:17 E
+DP 48:32:11 N 002:09:01 E
+DP 48:32:17 N 002:08:30 E
+DP 48:31:55 N 002:07:50 E
+DP 48:31:56 N 002:06:54 E
+DP 48:32:51 N 002:05:49 E
+DP 48:32:54 N 002:04:34 E
+DP 48:32:46 N 002:04:34 E
+DP 48:32:47 N 002:03:47 E
+DP 48:33:16 N 002:03:49 E
+DP 48:33:16 N 002:04:34 E
+DP 48:33:07 N 002:04:33 E
+DP 48:33:04 N 002:05:53 E
+DP 48:33:01 N 002:06:02 E
+DP 48:32:08 N 002:07:05 E
+DP 48:32:08 N 002:07:42 E
+DP 48:32:32 N 002:08:27 E
+DP 48:31:19 N 002:12:18 E
+DP 48:31:28 N 002:12:53 E
+DP 48:31:16 N 002:13:00 E
+
+
+
+*------------- SUP AIP 63/26 -------------------------
+* ZRT LE LUC
+* SUP AIP 063/26 - Valide du 17/04/2026 au 14/04/2027
+* Activité: Spécifiques défense. Contrôle local d'AD
+* Altitude: SFC/3000FT AMSL
+* Activation: H24
+* Contact: Avant activité: COMALAT 03 87 15 58 86 / 58 87 / Pendant: LE LUC TWR: 04 98 11 74 55
+
+AC R
+AN ZRT LE LUC
+AL SFC
+AH 3000FT AMSL
+V X=43:23:05 N 006:23:13 E
+DC 6
+
+
+
+
+
+
+
+
+*------------- SUP AIP 060/26 -------------------------
+* ZRT CHENEVIERES
+* SUP AIP 060/26 - Valide du 16/04/2026 au 12/04/2028
+* Activité: Activité spécifique défense
+* Altitude: 800FT ASFC/6500FT AMSL
+* Téléphone: 03 90 23 41 95 (CCPGE) / 06 71 51 95 44 / 06 32 26 52 89 (sur site)
+* Activation: H24 tous les jours sauf Samedi, Dimanche et jours fériés - Activable par NOTAM préavis 48h
+* Contact: Ochey App 127.250 MHz / Phalsbourg App 118.450 MHz / Strasbourg Info 119.450/136.135 MHz
+* Exclusion: LF-R 230 Baccarat lorsqu'elle est active
+
+AC R
+AN ZRT CHENEVIERES
+AL 800FT ASFC
+AH 6500FT AMSL
+DP 48:40:18 N 006:33:48 E
+DP 48:41:15 N 006:43:01 E
+DP 48:33:30 N 006:55:00 E
+DP 48:27:20 N 007:00:00 E
+DP 48:20:25 N 007:00:00 E
+DP 48:14:00 N 006:42:00 E
+DP 48:15:35 N 006:33:47 E
+DP 48:21:00 N 006:38:00 E
+DP 48:26:58 N 006:36:42 E
+V D=-
+V X=48:31:55 N 006:37:51 E
+DB 48:26:58 N 006:36:42 E,48:36:48 N 006:36:11 E
+V D=-
+V X=48:35:41 N 006:32:36 E
+DB 48:36:48 N 006:36:11 E,48:38:03 N 006:34:18 E
+DP 48:40:18 N 006:33:48 E
+
+
+
+
+*------------- SUP AIP 50/26 -------------------------
+* ZRT SAINT-HILAIRE
+* SUP AIP 050/26 - Valide du 01/04/2026 au 31/03/2027
+* Activité: Vols d'aéronefs sans équipage à bord en et hors vue de jour et de nuit
+* Altitude: SFC/1600FT AMSL
+* Téléphone: +33 3 87 15 58 87 / +33 3 87 15 58 86 (COMALAT) / +33 2 38 82 25 10 (pendant activité)
+* Activation: Lun-Ven sf jours fériés 0700-2100 (ETE -1HR)
+* Contact: Bricy App 122.700 MHz / Seine Info 134.300 MHz
+
+AC R
+AN ZRT SAINT-HILAIRE
+AL SFC
+AH 1600FT AMSL
+DP 47:49:30 N 001:51:41 E
+DP 47:49:32 N 001:54:11 E
+DP 47:48:26 N 001:55:01 E
+DP 47:48:01 N 001:52:17 E
+DP 47:49:30 N 001:51:41 E
+
+
+
+*------------- SUP AIP 38/26 -------------------------
+* ZRT HOMBORY
+* SUP AIP 038/26 - Valide du 24/03/2026 au 22/10/2026
+* Activité: Campagne de vol - aéronefs d'Etat sans équipage à bord
+* Altitude: SFC/5000FT AMSL
+* Téléphone: +33 3 84 57 53 69 (1er RA/C3D) / +33 3 87 15 58 86 (COMALAT) / DIREX: +33 6 89 77 13 72
+* Activation: Dates spécifiques 0600-1100 et 1600-2159 (mars: 0700-1200 et 1700-2259)
+* Contact: Rambert 119.700 MHz / Luxeuil App 129.925 MHz / Bale Info 130.900 MHz
+
+AC R
+AN ZRT HOMBORY
+AL SFC
+AH 5000FT AMSL
+DP 47:30:30 N 006:29:29 E
+DP 47:29:20 N 006:35:50 E
+DP 47:26:18 N 006:42:09 E
+DP 47:12:51 N 006:41:04 E
+DP 47:09:21 N 006:34:12 E
+DP 47:09:48 N 006:23:28 E
+V D=-
+V X=47:10:45 N 006:19:45 E
+DB 47:09:48 N 006:23:28 E, 47:12:30 N 006:16:43 E
+DP 47:28:47 N 006:22:00 E
+DP 47:30:30 N 006:29:29 E
+
+
+* ZRT CORRIDOR HOMBORY
+* SUP AIP 038/26 - Valide du 24/03/2026 au 22/10/2026
+* Activité: Campagne de vol - aéronefs d'Etat sans équipage à bord
+* Altitude: SFC/3000FT AMSL
+* Téléphone: +33 3 84 57 53 69 (1er RA/C3D) / +33 3 87 15 58 86 (COMALAT) / DIREX: +33 6 89 77 13 72
+* Activation: Dates spécifiques 0600-1100 et 1600-2159 (mars: 0700-1200 et 1700-2259)
+* Contact: Rambert 119.700 MHz / Luxeuil App 129.925 MHz / Bale Info 130.900 MHz
+
+AC R
+AN ZRT CORRIDOR HOMBORY
+AL SFC
+AH 3000FT AMSL
+DP 47:33:53 N 006:52:04 E
+DP 47:32:45 N 006:52:25 E
+DP 47:32:12 N 006:52:26 E
+DP 47:32:35 N 006:49:45 E
+DP 47:31:58 N 006:40:30 E
+DP 47:29:20 N 006:35:50 E
+DP 47:30:30 N 006:29:29 E
+DP 47:31:51 N 006:32:08 E
+DP 47:34:17 N 006:42:07 E
+DP 47:33:53 N 006:52:04 E
+
+
+
+
+*------------- SUP AIP 35/26 -------------------------
+* ZRT PLOEMEUR BASE
+* SUP AIP 035/26 - Valide du 19/03/2026 au 14/04/2027
+* Activité: Arrivées, départs et entraînements plateforme d'aéronefs autorisés sur LFRH avec service AFIS
+* Altitude: SFC/2500FT AMSL
+* Activation: H24 préavis 15 minutes
+* Contact: Lorient Info 122.700 MHz / Lorient ATIS 129.125 MHz / Iroise Info 135.825 MHz
+
+AC R
+AN ZRT PLOEMEUR BASE
+AL SFC
+AH 2500FT AMSL
+V X=47:45:38 N 003:26:24 W
+DC 5
+
+
+* ZRT PLOEMEUR EXTENDED
+* SUP AIP 035/26 - Valide du 19/03/2026 au 14/04/2027
+* Activité: Activités spécifiques défense, vols au service de l'Etat d'aéronefs sans équipage à bord
+* Altitude: SFC/4000FT AMSL
+* Note: Non activable simultanément avec ZRT PLOEMEUR BASE
+* Activation: H24 préavis 15 minutes
+* Contact: Lorient Info 122.700 MHz / Lorient ATIS 129.125 MHz / Iroise Info 135.825 MHz
+
+AC R
+AN ZRT PLOEMEUR EXTENDED
+AL SFC
+AH 4000FT AMSL
+V X=47:45:38 N 003:26:24 W
+DC 5
+
+
+
+
+
+*------------- SUP AIP 20/26 -------------------------
+* ZRT AUCH-LECTOURE
+* SUP AIP 020/26 - Valide du 02/03/2026 au 11/09/2026
+* Activité: Vol d'aéronefs sans équipage à bord en longue élongation - Surveillance gazoducs
+* Altitude: SFC/500FT ASFC
+* Téléphone: +33 6 66 98 32 55 (directeur des vols) / +33 6 78 82 81 18 (adjoint)
+* Activation: Lun-Ven sf JF - 02/03-27/03: 0800-1700 / 30/03-11/09: 0800-1900 (ETE -1HR) - NOTAM J-4
+* Contact: Toulouse Info 121.250 MHz / Pyrénées Info 126.525 MHz / Auch AFIS 123.005 MHz
+
+AC R
+AN ZRT AUCH-LECTOURE
+AL SFC
+AH 500FT ASFC
+DP 43:39:56 N 000:35:55 E
+DP 43:42:06 N 000:36:58 E
+DP 43:44:12 N 000:36:38 E
+DP 43:44:36 N 000:37:32 E
+DP 43:47:47 N 000:37:34 E
+DP 43:57:25 N 000:35:47 E
+DP 44:02:35 N 000:40:25 E
+DP 44:01:37 N 000:41:38 E
+DP 43:57:05 N 000:37:29 E
+DP 43:56:48 N 000:37:02 E
+DP 43:55:58 N 000:36:54 E
+DP 43:55:51 N 000:36:54 E
+DP 43:52:56 N 000:39:41 E
+DP 43:51:04 N 000:38:41 E
+DP 43:50:07 N 000:39:29 E
+DP 43:45:58 N 000:39:17 E
+DP 43:43:33 N 000:40:01 E
+DP 43:39:56 N 000:35:55 E
+
+
+* ZRT AUCH-NOGARO
+* SUP AIP 020/26 - Valide du 02/03/2026 au 11/09/2026
+* Activité: Vol d'aéronefs sans équipage à bord en longue élongation - Surveillance gazoducs
+* Altitude: SFC/500FT ASFC
+* Téléphone: +33 6 66 98 32 55 (directeur des vols) / +33 6 78 82 81 18 (adjoint)
+* Activation: Lun-Ven sf JF - 02/03-27/03: 0800-1700 / 30/03-11/09: 0800-1900 (ETE -1HR) - NOTAM J-4
+* Contact: Toulouse Info 121.250 MHz / Pyrénées Info 126.525 MHz / Auch AFIS 123.005 MHz
+
+AC R
+AN ZRT AUCH-NOGARO
+AL SFC
+AH 500FT ASFC
+DP 43:45:06 N 000:02:10 W
+DP 43:43:57 N 000:02:13 W
+DP 43:42:58 N 000:05:47 E
+DP 43:40:58 N 000:11:22 E
+DP 43:40:39 N 000:18:27 E
+DP 43:39:34 N 000:24:31 E
+DP 43:38:14 N 000:28:20 E
+DP 43:39:28 N 000:29:46 E
+DP 43:40:53 N 000:25:42 E
+DP 43:42:10 N 000:17:10 E
+DP 43:43:54 N 000:12:21 E
+DP 43:44:50 N 000:02:45 E
+DP 43:45:06 N 000:02:10 W
+
+
+* ZRT AUCH SUD
+* SUP AIP 020/26 - Valide du 02/03/2026 au 11/09/2026
+* Activité: Vol d'aéronefs sans équipage à bord en longue élongation - Surveillance gazoducs
+* Altitude: SFC/500FT ASFC
+* Téléphone: +33 6 66 98 32 55 (directeur des vols) / +33 6 78 82 81 18 (adjoint)
+* Activation: Lun-Ven sf JF - 02/03-27/03: 0800-1700 / 30/03-11/09: 0800-1900 (ETE -1HR) - NOTAM J-4
+* Contact: Toulouse Info 121.250 MHz / Pyrénées Info 126.525 MHz / Auch AFIS 123.005 MHz
+
+AC R
+AN ZRT AUCH SUD
+AL SFC
+AH 500FT ASFC
+DP 43:39:56 N 000:28:19 E
+DP 43:39:47 N 000:27:01 E
+DP 43:38:21 N 000:27:04 E
+DP 43:36:20 N 000:36:24 E
+DP 43:34:12 N 000:36:24 E
+DP 43:33:59 N 000:38:32 E
+DP 43:36:23 N 000:39:04 E
+DP 43:36:31 N 000:45:52 E
+DP 43:34:33 N 000:55:57 E
+DP 43:35:45 N 000:56:26 E
+DP 43:38:50 N 000:43:59 E
+DP 43:37:34 N 000:42:27 E
+DP 43:37:35 N 000:34:39 E
+DP 43:38:57 N 000:29:33 E
+DP 43:39:56 N 000:28:19 E
+
+
+
+
+*------------- SUP AIP 216/25 -------------------------
+* Zones Réglementées Temporaires (ZRT) - France
+* Source: SUP AIP 2025
+* Généré le: 04/01/2026
+
+* ZRT METZ - THIONVILLE
+* SUP AIP 216/25 - Valide du 01/01/2026 au 31/12/2026
+* Activité: Vols hors vue drone (transport médical)
+* Altitude: SFC/330FT ASFC
+* Téléphone: +33 2 79 58 00 35
+* Activation: Opérateur Delivrone
+* Contact: Stasbourg Info 119.450 MHz
+AC R
+AN ZRT METZ-THIONVILLE
+AL SFC
+AH 330FT AGL
+DP 49:22:25 N 006:08:23 E
+DP 49:23:28 N 006:09:12 E
+DP 49:23:47 N 006:10:00 E
+DP 49:23:02 N 006:11:59 E
+DP 49:22:50 N 006:12:05 E
+DP 49:22:41 N 006:12:45 E
+DP 49:21:26 N 006:15:49 E
+DP 49:20:13 N 006:16:05 E
+DP 49:19:31 N 006:13:53 E
+DP 49:11:21 N 006:18:00 E
+DP 49:06:06 N 006:19:17 E
+DP 49:04:12 N 006:15:08 E
+DP 49:04:53 N 006:14:01 E
+DP 49:06:40 N 006:17:48 E
+DP 49:08:40 N 006:17:00 E
+DP 49:10:37 N 006:16:56 E
+DP 49:20:15 N 006:12:16 E
+DP 49:20:30 N 006:14:33 E
+DP 49:20:53 N 006:14:54 E
+DP 49:22:50 N 006:10:00 E
+DP 49:22:06 N 006:09:27 E
+DP 49:22:25 N 006:08:23 E
+
+
+
+
+*------------- SUP AIP 214/25 -------------------------
+* ZRT AIRGHT (Hauts de France)
+* SUP AIP 214/25 - Valide du 01/01/2026 au 31/12/2027
+* Activité: Vols hors vue drone jour et nuit
+* Altitude: SFC/400FT ASFC
+* Téléphone: +33 2 79 58 00 36
+* Activation: Opérateur Delivrone
+* Contact: Lille Info 127.015 / 132.610 / 129.360 MHz
+AC R
+AN ZRT AIRGHT
+AL SFC
+AH 400FT AGL
+DP 49:57:38 N 002:05:46 E
+DP 49:52:22 N 002:15:39 E
+DP 49:51:40 N 002:14:50 E
+DP 49:56:45 N 002:05:16 E
+DP 49:58:26 N 001:57:23 E
+DP 50:00:39 N 001:56:28 E
+DP 50:02:19 N 001:50:19 E
+DP 50:05:24 N 001:46:49 E
+DP 50:05:51 N 001:44:42 E
+DP 50:09:13 N 001:43:19 E
+DP 50:12:09 N 001:42:55 E
+DP 50:15:26 N 001:45:36 E
+DP 50:17:52 N 001:46:57 E
+DP 50:25:14 N 001:43:33 E
+DP 50:24:25 N 001:39:50 E
+DP 50:24:54 N 001:39:30 E
+DP 50:26:10 N 001:44:47 E
+DP 50:17:54 N 001:48:21 E
+DP 50:14:23 N 001:46:30 E
+DP 50:12:12 N 001:44:51 E
+DP 50:09:27 N 001:44:35 E
+DP 50:06:19 N 001:46:26 E
+DP 50:06:22 N 001:50:12 E
+DP 50:05:56 N 001:50:26 E
+DP 50:05:18 N 001:48:36 E
+DP 50:03:03 N 001:51:20 E
+DP 50:01:22 N 001:57:34 E
+DP 49:59:11 N 001:58:26 E
+DP 49:57:38 N 002:05:46 E
+
+
+
+*------------- SUP AIP 212/25 -------------------------
+* ZRT HIRSON
+* SUP AIP 212/25 - Valide du 01/01/2026 au 31/12/2026
+* Activité: Vols hors vue drone jour et nuit
+* Altitude: SFC/400FT ASFC
+* Téléphone: +33 2 79 58 00 47
+* Activation: Opérateur Delivrone
+* Contact: Lille Info 126.480 MHz
+AC R
+AN ZRT HIRSON
+AL SFC
+AH 400FT AGL
+DP 50:00:39 N 004:03:22 E
+DP 50:00:51 N 004:04:19 E
+DP 49:57:38 N 004:05:46 E
+DP 49:55:29 N 004:04:42 E
+DP 49:55:11 N 004:04:04 E
+DP 49:55:57 N 004:02:56 E
+DP 49:57:41 N 004:04:50 E
+DP 50:00:39 N 004:03:22 E
+
+
+
+
+
+*------------- SUP AIP 210/25 -------------------------
+* ZRT L'AIGLE - VERNEUIL D'AVRE
+* SUP AIP 210/25 - Valide du 01/01/2026 au 31/12/2027
+* Activité: Vols hors vue drone (transport médical)
+* Altitude: SFC/330FT ASFC
+* Téléphone: +33 2 79 58 00 24
+* Activation: Opérateur Delivrone
+* Contact: Lille Info 134.825 MHz Rennes Info 134.000 MHz
+AC R
+AN ZRT L'AIGLE-VERNEUIL
+AL SFC
+AH 330FT AGL
+DP 48:48:13 N 000:35:13 E
+DP 48:49:17 N 000:40:44 E
+DP 48:46:01 N 000:57:05 E
+DP 48:43:44 N 000:55:42 E
+DP 48:46:02 N 000:43:53 E
+DP 48:47:07 N 000:40:27 E
+DP 48:46:39 N 000:37:38 E
+DP 48:45:44 N 000:37:13 E
+DP 48:45:32 N 000:35:16 E
+DP 48:48:13 N 000:35:13 E
+
+
+
+
+
+*------------- SUP AIP 191/25 -------------------------
+* ZRT DRONE COUBERT
+* SUP AIP 191/25 - Valide du 20/11/2025 au 31/12/2026
+* Activité: Vols d'aéronefs sans équipage à bord hors vue de jour et de nuit - Surveillance lignes ferroviaires
+* Altitude: SFC/500FT ASFC
+* Téléphone: +33 6 62 83 60 48 / +33 6 30 32 20 97
+* Activation: NOTAM 48h - 2030-0530 (ETE -1HR)
+* Contact: Paris CTL
+
+AC R
+AN ZRT DRONE COUBERT
+AL SFC
+AH 500FT ASFC
+DP 48:43:01 N 002:37:51 E
+DP 48:42:30 N 002:44:47 E
+DP 48:40:46 N 002:44:41 E
+DP 48:41:58 N 002:37:51 E
+DP 48:43:01 N 002:37:51 E
+
+
+*------------- SUP AIP 211/26 -------------------------
+* ZRT RAPACE ALPHA
+* SUP AIP 211/26 - Valide du 06/10/2026 au 08/04/2027
+* Activité: Campagne de vol - aéronefs d'Etat sans équipage à bord
+* Altitude: SFC/3500FT AMSL
+* Téléphone: +33 2 99 39 75 32 (11e RAMa BOI) / +33 3 87 15 58 86 (COMALAT) / +33 6 08 42 79 21 (DIREX)
+* Activation: Dates spécifiques Mar et Jeu - 0700-1500 et 1700-0000 (jusqu'au 25 mars) / 0600-1400 et 1600-0000/0200 (jusqu'au 22 octobre et à partir du 6 avril)
+* Contact: Rennes Info 134.000 MHz
+
+AC R
+AN ZRT RAPACE ALPHA
+AL SFC
+AH 3500FT AMSL
+DP 48:20:53 N 001:32:17 W
+DP 48:19:28 N 001:38:14 W
+DP 48:17:34 N 001:38:07 W
+DP 48:15:07 N 001:39:29 W
+DP 48:14:17 N 001:37:54 W
+DP 48:15:50 N 001:28:31 W
+DP 48:16:11 N 001:29:20 W
+DP 48:16:47 N 001:29:19 W
+DP 48:17:00 N 001:28:54 W
+DP 48:20:53 N 001:32:17 W
+
+
+* ZRT RAPACE BRAVO
+* SUP AIP 211/26 - Valide du 06/10/2026 au 08/04/2027
+* Activité: Campagne de vol - aéronefs d'Etat sans équipage à bord
+* Altitude: SFC/3500FT AMSL
+* Téléphone: +33 2 99 39 75 32 (11e RAMa BOI) / +33 3 87 15 58 86 (COMALAT) / +33 6 08 42 79 21 (DIREX)
+* Activation: Dates spécifiques Mar et Jeu - 0700-1500 et 1700-0000 (jusqu'au 25 mars) / 0600-1400 et 1600-0000/0200 (jusqu'au 22 octobre et à partir du 6 avril)
+* Contact: Rennes Info 134.000 MHz
+
+AC R
+AN ZRT RAPACE BRAVO
+AL SFC
+AH 3500FT AMSL
+DP 48:21:57 N 001:26:55 W
+DP 48:20:17 N 001:20:16 W
+DP 48:19:19 N 001:20:08 W
+DP 48:16:09 N 001:25:24 W
+DP 48:16:06 N 001:26:49 W
+DP 48:16:26 N 001:26:42 W
+DP 48:17:07 N 001:28:32 W
+DP 48:16:58 N 001:28:50 W
+DP 48:20:53 N 001:32:17 W
+DP 48:21:57 N 001:26:55 W
+
+
+
+
+
+
+
+
+*------------- SUP AIP 176/25 -------------------------
+* ZRT DRONE REGION SUD DE CHARTRES
+* SUP AIP 176/25 - Valide du 16/10/2025 au 14/10/2026
+* Activité: Vols hors vue drone de jour
+* Altitude: SFC/500FT ASFC
+* Téléphone: +33 6 51 21 92 69 - +33 6 07 21 98 46 - +33 6 89 65 28 74
+* Activation: NOTAM
+* Contact: Seine Info 127.815 MHz
+AC R
+AN ZRT SUD CHARTRES
+AL SFC
+AH 500FT AGL
+DP 48:19:02 N 001:50:55 E
+DP 48:18:39 N 001:51:02 E
+DP 48:15:28 N 001:38:51 E
+DP 48:12:20 N 001:26:58 E
+DP 48:12:12 N 001:24:53 E
+DP 48:14:47 N 001:24:55 E
+DP 48:17:44 N 001:26:00 E
+DP 48:17:12 N 001:29:09 E
+DP 48:15:24 N 001:34:18 E
+DP 48:15:07 N 001:33:28 E
+DP 48:17:00 N 001:27:02 E
+DP 48:14:47 N 001:25:40 E
+DP 48:12:53 N 001:26:06 E
+DP 48:13:49 N 001:28:23 E
+DP 48:16:35 N 001:39:36 E
+DP 48:18:36 N 001:46:38 E
+
+
+
+
+
+
+*------------- SUP AIP 159/25 -------------------------
+* ZRT SAINT-DIZIER - ZRT JOINVILLE - ZRT CHALONS (création expérimentale)
+* SUP AIP 159/25 - Valide du 22/09/2025 au 14/04/2027
+* Activité: Entraînement avions d'armes
+* Activation: Lun-Ven hors jours fériés - jusqu'à 4 créneaux quotidiens par ZRT - Maximum 1h30 par créneau
+* Gestionnaire: Escadron des services de la circulation aérienne (ESCA) de Saint-Dizier
+* Téléphone: 03 25 07 80 15 (Secours 03 25 05 71 02)
+
+* ZRT SAINT-DIZIER - Exclusion: LF-R 229 B Wavrille lorsqu'elle est active
+* Altitude: FL065/FL195
+* Contact: Saint-Dizier App 134.775 MHz / Ochey App 127.250 MHz / Paris Info 125.700 MHz / Strasbourg Info 119.450 MHz / Etain App 120.125 MHz / RAKI 119.700-143.550-317.500 MHz
+AC R
+AN ZRT SAINT-DIZIER
+AL FL065
+AH FL195
+DP 49:18:23 N 005:08:18 E
+DP 49:13:48 N 005:49:57 E
+DP 49:00:00 N 005:50:00 E
+DP 49:00:00 N 005:31:20 E
+DP 48:50:53 N 005:23:55 E
+DP 48:57:00 N 004:48:00 E
+DP 49:09:15 N 004:45:01 E
+DP 49:18:23 N 005:08:18 E
+
+* ZRT JOINVILLE
+* Altitude: FL065/FL195
+* Contact: Saint-Dizier App 134.775 MHz / Ochey App 127.250 MHz / Bale Info 135.850 MHz / Strasbourg Info 119.450 MHz / Seine Info 120.325 MHz / RAKI 119.700-143.550-317.500 MHz
+AC R
+AN ZRT JOINVILLE
+AL FL065
+AH FL195
+DP 48:01:09 N 005:15:57 E
+DP 48:05:12 N 005:23:55 E
+DP 48:25:05 N 005:23:55 E
+DP 48:24:30 N 005:17:35 E
+DP 48:24:38 N 005:10:25 E
+DP 48:17:26 N 004:54:25 E
+DP 48:01:09 N 005:15:57 E
+
+* ZRT CHALONS - arcs anti-horaires (12NM et 4.86NM)
+* Altitude: FL075/FL195
+* Contact: Saint-Dizier App 134.775 MHz / Seine Info 120.325 MHz / RAKI 119.700-143.550-317.500 MHz
+AC R
+AN ZRT CHALONS
+AL FL075
+AH FL195
+DP 49:02:06 N 004:10:25 E
+DP 48:49:26 N 004:48:51 E
+V D=-
+V X=48:38:01 N 004:54:29 E
+DB 48:49:26 N 004:48:51 E,48:32:55 N 004:38:03 E
+DP 48:32:55 N 004:33:40 E
+DP 48:38:22 N 004:26:17 E
+V D=-
+V X=48:39:00 N 004:19:00 E
+DB 48:38:22 N 004:26:17 E,48:43:51 N 004:18:49 E
+DP 48:49:33 N 004:11:03 E
+DP 49:02:06 N 004:10:25 E
+
+
+*------------- SUP AIP 094/25 -------------------------
+* ZRT DSV ROMORANTIN ALPHA
+* SUP AIP 094/25 - Valide du 05/06/2025 au 14/04/2027
+* Activité: Parachutage avec dérive sous voile haute finesse et oxygène (expérimental)
+* Altitude: SFC/FL285
+* Téléphone: +33 4 87 65 57 99 / +33 4 87 65 54 05 (avant activation) / +33 2 45 34 15 67 (pendant activation)
+* Activation: Lun-Ven (sf jours fériés) 0800-1100 et 1900-2359 ou 1200-1600 et 1900-2359 ETE-1HR - NOTAM 48h
+* Contact: Seine Info 127.815 MHz / Paris Info 126.100 MHz / Poitiers App 134.100 MHz
+
+AC R
+AN ZRT DSV ROMORANTIN ALPHA
+AL SFC
+AH FL285
+DP 47:44:58 N 001:21:31 E
+DP 47:34:43 N 001:54:56 E
+DP 47:23:53 N 001:11:17 E
+DP 47:44:58 N 001:21:31 E
+
+
+* ZRT DSV ROMORANTIN BRAVO
+* SUP AIP 094/25 - Valide du 05/06/2025 au 14/04/2027
+* Activité: Parachutage avec dérive sous voile haute finesse et oxygène (expérimental)
+* Altitude: SFC/FL285
+* Téléphone: +33 4 87 65 57 99 / +33 4 87 65 54 05 (avant activation) / +33 2 45 34 15 67 (pendant activation)
+* Activation: Lun-Ven (sf jours fériés) 0800-1100 et 1900-2359 ou 1200-1600 et 1900-2359 ETE-1HR - NOTAM 48h
+* Contact: Seine Info 127.815 MHz / Paris Info 126.100 MHz / Poitiers App 134.100 MHz
+
+AC R
+AN ZRT DSV ROMORANTIN BRAVO
+AL SFC
+AH FL285
+DP 47:15:41 N 001:11:06 E
+DP 47:23:53 N 001:11:17 E
+DP 47:34:43 N 001:54:56 E
+DP 47:20:50 N 001:55:46 E
+DP 47:20:40 N 001:39:21 E
+DP 47:06:29 N 001:39:36 E
+DP 47:02:56 N 001:29:01 E
+DP 47:15:41 N 001:11:06 E
+
+
+* ZRT DSV ROMORANTIN CHARLIE
+* SUP AIP 094/25 - Valide du 05/06/2025 au 14/04/2027
+* Activité: Parachutage avec dérive sous voile haute finesse et oxygène (expérimental)
+* Altitude: SFC/FL285
+* Téléphone: +33 4 87 65 57 99 / +33 4 87 65 54 05 (avant activation) / +33 2 45 34 15 67 (pendant activation)
+* Activation: Lun-Ven (sf jours fériés) 0800-1100 et 1900-2359 ou 1200-1600 et 1900-2359 ETE-1HR - NOTAM 48h
+* Contact: Seine Info 127.815 MHz / Paris Info 126.100 MHz / Poitiers App 134.100 MHz
+
+AC R
+AN ZRT DSV ROMORANTIN CHARLIE
+AL SFC
+AH FL285
+DP 47:20:50 N 001:55:46 E
+DP 47:11:09 N 001:53:22 E
+DP 47:06:29 N 001:39:36 E
+DP 47:20:40 N 001:39:21 E
+DP 47:20:50 N 001:55:46 E
+
+
+* ZRT DSV ROMORANTIN DELTA
+* SUP AIP 094/25 - Valide du 05/06/2025 au 14/04/2027
+* Activité: Parachutage avec dérive sous voile haute finesse et oxygène (expérimental)
+* Altitude: SFC/FL285
+* Téléphone: +33 4 87 65 57 99 / +33 4 87 65 54 05 (avant activation) / +33 2 45 34 15 67 (pendant activation)
+* Activation: Lun-Ven (sf jours fériés) 0800-1100 et 1900-2359 ou 1200-1600 et 1900-2359 ETE-1HR - NOTAM 48h
+* Contact: Seine Info 127.815 MHz / Paris Info 126.100 MHz / Poitiers App 134.100 MHz
+
+AC R
+AN ZRT DSV ROMORANTIN DELTA
+AL SFC
+AH FL285
+DP 46:58:40 N 001:10:31 E
+DP 47:15:43 N 001:11:06 E
+DP 47:02:56 N 001:29:01 E
+DP 46:59:12 N 001:18:06 E
+DP 46:58:40 N 001:10:31 E
+
+
+
+
+
+*------------- NOTAM R2170/26 -------------------------
+* NOTAM LFFA-R2170/26
+* Zone Reglementee Temporaire (ZRT) - Forges-les-Eaux
+* Valid: 01 AUG 2026 00:00 to 31 DEC 2028 23:59
+* Téléphone: +33 2 79 58 00 40
+* Activation: Drones BVLOS operations
+* Contact: Lille Info 134.825 MHz / Beauvais App 123.985 MHz
+
+AC R
+AN LFFA-R2170/26 ZRT FORGES-LES-EAUX
+AL SFC
+AH 400FT AGL
+V X=49:36:11 N 001:31:24 E
+DC 4.3
+
+
+*------------- Zone de protection de biotope - Castel-Vendon ---------------
+* Zone Reglementée Temporaire (ZRT) - Castel vendon
+* Interdiction de survol : 1er nov au 31 mai
+* Plafond : Illimité (FL999)
+
+AC R
+AN ZRT Castel-Vendon (Biotope 01/11-31/05)
+AL SFC
+AH FL999
+DP 49:40:48 N 001:46:10 W
+DP 49:40:49 N 001:46:13 W
+DP 49:40:49 N 001:46:16 W
+DP 49:40:48 N 001:46:19 W
+DP 49:40:48 N 001:46:23 W
+DP 49:40:48 N 001:46:25 W
+DP 49:40:48 N 001:46:27 W
+DP 49:40:49 N 001:46:29 W
+DP 49:40:51 N 001:46:32 W
+DP 49:40:52 N 001:46:34 W
+DP 49:40:52 N 001:46:35 W
+DP 49:40:52 N 001:46:37 W
+DP 49:40:52 N 001:46:37 W
+DP 49:40:53 N 001:46:38 W
+DP 49:40:53 N 001:46:38 W
+DP 49:40:53 N 001:46:39 W
+DP 49:40:53 N 001:46:40 W
+DP 49:40:53 N 001:46:41 W
+DP 49:40:53 N 001:46:41 W
+DP 49:40:53 N 001:46:42 W
+DP 49:40:54 N 001:46:43 W
+DP 49:40:55 N 001:46:43 W
+DP 49:40:56 N 001:46:44 W
+DP 49:40:56 N 001:46:45 W
+DP 49:40:56 N 001:46:46 W
+DP 49:40:57 N 001:46:48 W
+DP 49:40:57 N 001:46:49 W
+DP 49:40:58 N 001:46:50 W
+DP 49:40:58 N 001:46:53 W
+DP 49:40:59 N 001:46:54 W
+DP 49:40:59 N 001:46:55 W
+DP 49:40:59 N 001:46:56 W
+DP 49:41:00 N 001:46:58 W
+DP 49:41:01 N 001:46:58 W
+DP 49:41:02 N 001:46:59 W
+DP 49:41:02 N 001:47:00 W
+DP 49:41:03 N 001:47:00 W
+DP 49:41:03 N 001:47:03 W
+DP 49:41:04 N 001:47:04 W
+DP 49:41:04 N 001:47:05 W
+DP 49:41:04 N 001:47:07 W
+DP 49:41:04 N 001:47:08 W
+DP 49:41:05 N 001:47:08 W
+DP 49:41:06 N 001:47:09 W
+DP 49:41:06 N 001:47:10 W
+DP 49:41:07 N 001:47:12 W
+DP 49:41:08 N 001:47:15 W
+DP 49:41:08 N 001:47:17 W
+DP 49:41:09 N 001:47:18 W
+DP 49:41:08 N 001:47:19 W
+DP 49:41:09 N 001:47:21 W
+DP 49:41:13 N 001:47:18 W
+DP 49:41:05 N 001:46:57 W
+DP 49:40:59 N 001:46:41 W
+DP 49:40:53 N 001:46:27 W
+DP 49:40:52 N 001:46:20 W
+DP 49:40:53 N 001:46:15 W
+DP 49:40:52 N 001:46:08 W
+DP 49:40:48 N 001:46:10 W
+
+
+
+
+
+
+
+
+*------------- SUP AIP 146/26 -------------------------
+
+* ZRT VALD'YERRE
+
+* SUP AIP 146/26 - Valide du 09/07/2026 au 01/05/2027
+
+* Activité: Création de 12 ZRT dans la région des aérodromes de Châteaudun et d'Orléans-Bricy - transits et évolutions de drones d'Etat (Armée de l'Air et de l'Espace), hors vue
+
+* Altitude: 2500FT AMSL/FL065
+
+* Téléphone: +33 2 45 40 71 14 (Cellule OPS, hors activité) / Télépilote (numéro inscrit au NOTAM d'activation)
+
+* Activation: NOTAM préavis 48h - 0800-2359 tous les jours sauf Samedi, Dimanche et jours fériés
+
+* Contact: Bricy App 122.700 MHz / Seine Info 127.815 MHz / Paris Info 129.625 MHz
+
+
+
+AC R
+
+AN ZRT VALD'YERRE
+
+AL 2500FT AMSL
+
+AH FL065
+
+DP 48:13:47 N 001:02:50 E
+
+DP 48:13:47 N 001:21:49 E
+
+DP 47:55:41 N 001:09:32 E
+
+DP 47:52:15 N 001:07:13 E
+
+DP 47:55:45 N 000:52:17 E
+
+DP 48:01:10 N 000:55:54 E
+
+DP 48:08:10 N 000:55:08 E
+
+DP 48:11:50 N 000:53:59 E
+
+DP 48:13:47 N 001:02:50 E
+
+
+
+
+
+* ZRT EVOLUTION OUEST
+
+* SUP AIP 146/26 - Valide du 09/07/2026 au 01/05/2027
+
+* Activité: cf ZRT VALD'YERRE (dispositif drones Châteaudun/Orléans-Bricy)
+
+* Altitude: SFC/FL065
+
+* Téléphone: +33 2 45 40 71 14 (Cellule OPS, hors activité) / Télépilote (numéro inscrit au NOTAM d'activation)
+
+* Activation: NOTAM préavis 48h - 0800-2359 tous les jours sauf Samedi, Dimanche et jours fériés
+
+* Contact: Bricy App 122.700 MHz / Seine Info 127.815 MHz / Paris Info 129.625 MHz
+
+
+
+AC R
+
+AN ZRT EVOLUTION OUEST
+
+AL SFC
+
+AH FL065
+
+DP 47:58:35 N 001:11:30 E
+
+DP 48:03:39 N 000:55:38 E
+
+DP 48:01:10 N 000:55:54 E
+
+DP 47:55:45 N 000:52:17 E
+
+DP 47:52:15 N 001:07:13 E
+
+DP 47:55:41 N 001:09:32 E
+
+DP 47:58:35 N 001:11:30 E
+
+
+
+
+
+* ZRT EVOLUTION EST
+
+* SUP AIP 146/26 - Valide du 09/07/2026 au 01/05/2027
+
+* Activité: cf ZRT VALD'YERRE (dispositif drones Châteaudun/Orléans-Bricy)
+
+* Altitude: SFC/FL065
+
+* Téléphone: +33 2 45 40 71 14 (Cellule OPS, hors activité) / Télépilote (numéro inscrit au NOTAM d'activation)
+
+* Activation: NOTAM préavis 48h - 0800-2359 tous les jours sauf Samedi, Dimanche et jours fériés
+
+* Contact: Bricy App 122.700 MHz / Seine Info 127.815 MHz / Paris Info 129.625 MHz
+
+* Exclusion: partie interférente avec zone LF-R60 Beauce lorsqu'active
+
+
+
+AC R
+
+AN ZRT EVOLUTION EST
+
+AL SFC
+
+AH FL065
+
+DP 48:00:41 N 001:30:26 E
+
+DP 47:54:16 N 001:26:22 E
+
+DP 47:53:28 N 001:20:37 E
+
+DP 47:56:49 N 001:14:06 E
+
+DP 48:00:41 N 001:30:26 E
+
+
+
+
+
+* ZRT PUITS BRICY
+
+* SUP AIP 146/26 - Valide du 09/07/2026 au 01/05/2027
+
+* Activité: cf ZRT VALD'YERRE (dispositif drones Châteaudun/Orléans-Bricy)
+
+* Altitude: SFC/FL055
+
+* Téléphone: +33 2 45 40 71 14 (Cellule OPS, hors activité) / Télépilote (numéro inscrit au NOTAM d'activation)
+
+* Activation: NOTAM préavis 48h - 0800-2359 tous les jours sauf Samedi, Dimanche et jours fériés
+
+* Contact: Bricy App 122.700 MHz / Seine Info 127.815 MHz / Paris Info 129.625 MHz
+
+* Si active: LF-R295 non activable, PJE 207 et AEM n°8415 suspendues. Exclusion partie zone LFP225L
+
+
+
+AC R
+
+AN ZRT PUITS BRICY
+
+AL SFC
+
+AH FL055
+
+V X=47:59:29 N 001:46:31 E
+
+DC 1.62
+
+
+
+
+
+* ZRT PUITS CHATEAUDUN
+
+* SUP AIP 146/26 - Valide du 09/07/2026 au 01/05/2027
+
+* Activité: cf ZRT VALD'YERRE (dispositif drones Châteaudun/Orléans-Bricy)
+
+* Altitude: SFC/FL055
+
+* Téléphone: +33 2 45 40 71 14 (Cellule OPS, hors activité) / Télépilote (numéro inscrit au NOTAM d'activation)
+
+* Activation: NOTAM préavis 48h - 0800-2359 tous les jours sauf Samedi, Dimanche et jours fériés
+
+* Contact: Bricy App 122.700 MHz / Seine Info 127.815 MHz / Paris Info 129.625 MHz
+
+* Si active: activité AEM n°8240 suspendue
+
+
+
+AC R
+
+AN ZRT PUITS CHATEAUDUN
+
+AL SFC
+
+AH FL055
+
+V X=48:03:56 N 001:23:52 E
+
+DC 0.27
+
+
+
+
+
+* ZRT PUITS LA FONTENELLE
+
+* SUP AIP 146/26 - Valide du 09/07/2026 au 01/05/2027
+
+* Activité: cf ZRT VALD'YERRE (dispositif drones Châteaudun/Orléans-Bricy)
+
+* Altitude: SFC/2500FT AMSL
+
+* Téléphone: +33 2 45 40 71 14 (Cellule OPS, hors activité) / Télépilote (numéro inscrit au NOTAM d'activation)
+
+* Activation: NOTAM préavis 48h - 0800-2359 tous les jours sauf Samedi, Dimanche et jours fériés
+
+* Contact: Bricy App 122.700 MHz / Seine Info 127.815 MHz / Paris Info 129.625 MHz
+
+
+
+AC R
+
+AN ZRT PUITS LA FONTENELLE
+
+AL SFC
+
+AH 2500FT AMSL
+
+V X=48:02:30 N 001:00:54 E
+
+DC 1.35
+
+
+
+
+
+* ZRT PUITS LA LANDE
+
+* SUP AIP 146/26 - Valide du 09/07/2026 au 01/05/2027
+
+* Activité: cf ZRT VALD'YERRE (dispositif drones Châteaudun/Orléans-Bricy)
+
+* Altitude: SFC/2500FT AMSL
+
+* Téléphone: +33 2 45 40 71 14 (Cellule OPS, hors activité) / Télépilote (numéro inscrit au NOTAM d'activation)
+
+* Activation: NOTAM préavis 48h - 0800-2359 tous les jours sauf Samedi, Dimanche et jours fériés
+
+* Contact: Bricy App 122.700 MHz / Seine Info 127.815 MHz / Paris Info 129.625 MHz
+
+
+
+AC R
+
+AN ZRT PUITS LA LANDE
+
+AL SFC
+
+AH 2500FT AMSL
+
+V X=48:06:10 N 001:02:40 E
+
+DC 1.35
+
+
+
+
+
+* ZRT PUITS FEUILLETORSE
+
+* SUP AIP 146/26 - Valide du 09/07/2026 au 01/05/2027
+
+* Activité: cf ZRT VALD'YERRE (dispositif drones Châteaudun/Orléans-Bricy)
+
+* Altitude: SFC/2500FT AMSL
+
+* Téléphone: +33 2 45 40 71 14 (Cellule OPS, hors activité) / Télépilote (numéro inscrit au NOTAM d'activation)
+
+* Activation: NOTAM préavis 48h - 0800-2359 tous les jours sauf Samedi, Dimanche et jours fériés
+
+* Contact: Bricy App 122.700 MHz / Seine Info 127.815 MHz / Paris Info 129.625 MHz
+
+
+
+AC R
+
+AN ZRT PUITS FEUILLETORSE
+
+AL SFC
+
+AH 2500FT AMSL
+
+V X=48:10:59 N 001:15:16 E
+
+DC 1.35
+
+
+
+
+
+* ZRT CORRIDOR SE
+
+* SUP AIP 146/26 - Valide du 09/07/2026 au 01/05/2027
+
+* Activité: cf ZRT VALD'YERRE (dispositif drones Châteaudun/Orléans-Bricy)
+
+* Altitude: FL055/FL065
+
+* Téléphone: +33 2 45 40 71 14 (Cellule OPS, hors activité) / Télépilote (numéro inscrit au NOTAM d'activation)
+
+* Activation: NOTAM préavis 48h - 0800-2359 tous les jours sauf Samedi, Dimanche et jours fériés
+
+* Contact: Bricy App 122.700 MHz / Seine Info 127.815 MHz / Paris Info 129.625 MHz
+
+
+
+AC R
+
+AN ZRT CORRIDOR SE
+
+AL FL055
+
+AH FL065
+
+DP 48:05:20 N 001:22:56 E
+
+DP 47:59:59 N 001:47:45 E
+
+DP 47:57:50 N 001:46:41 E
+
+DP 48:03:12 N 001:21:42 E
+
+DP 48:05:20 N 001:22:56 E
+
+
+
+
+
+* ZRT CORRIDOR NE
+
+* SUP AIP 146/26 - Valide du 09/07/2026 au 01/05/2027
+
+* Activité: cf ZRT VALD'YERRE (dispositif drones Châteaudun/Orléans-Bricy)
+
+* Altitude: 4000FT AMSL/FL065
+
+* Téléphone: +33 2 45 40 71 14 (Cellule OPS, hors activité) / Télépilote (numéro inscrit au NOTAM d'activation)
+
+* Activation: NOTAM préavis 48h - 0800-2359 tous les jours sauf Samedi, Dimanche et jours fériés
+
+* Contact: Bricy App 122.700 MHz / Seine Info 127.815 MHz / Paris Info 129.625 MHz
+
+* Exclusion: partie interférente avec ZRT Corridor SE lorsqu'active
+
+
+
+AC R
+
+AN ZRT CORRIDOR NE
+
+AL 4000FT AMSL
+
+AH FL065
+
+DP 48:10:08 N 001:34:05 E
+
+DP 48:09:05 N 001:37:31 E
+
+DP 48:03:06 N 001:24:57 E
+
+DP 48:04:37 N 001:22:31 E
+
+DP 48:10:08 N 001:34:05 E
+
+
+
+
+
+* ZRT CORRIDOR SW1
+
+* SUP AIP 146/26 - Valide du 09/07/2026 au 01/05/2027
+
+* Activité: cf ZRT VALD'YERRE (dispositif drones Châteaudun/Orléans-Bricy)
+
+* Altitude: FL055/FL065
+
+* Téléphone: +33 2 45 40 71 14 (Cellule OPS, hors activité) / Télépilote (numéro inscrit au NOTAM d'activation)
+
+* Activation: NOTAM préavis 48h - 0800-2359 tous les jours sauf Samedi, Dimanche et jours fériés
+
+* Contact: Bricy App 122.700 MHz / Seine Info 127.815 MHz / Paris Info 129.625 MHz
+
+* Exclusion: parties interférentes avec ZRT Corridor SE et Corridor SW2 lorsqu'actives
+
+
+
+AC R
+
+AN ZRT CORRIDOR SW1
+
+AL FL055
+
+AH FL065
+
+DP 48:04:37 N 001:22:31 E
+
+DP 48:03:06 N 001:24:57 E
+
+DP 47:58:53 N 001:22:48 E
+
+DP 47:57:53 N 001:18:36 E
+
+DP 48:04:37 N 001:22:31 E
+
+
+
+
+
+* ZRT CORRIDOR SW2
+
+* SUP AIP 146/26 - Valide du 09/07/2026 au 01/05/2027
+
+* Activité: cf ZRT VALD'YERRE (dispositif drones Châteaudun/Orléans-Bricy)
+
+* Altitude: FL055/FL065
+
+* Téléphone: +33 2 45 40 71 14 (Cellule OPS, hors activité) / Télépilote (numéro inscrit au NOTAM d'activation)
+
+* Activation: NOTAM préavis 48h - 0800-2359 tous les jours sauf Samedi, Dimanche et jours fériés
+
+* Contact: Bricy App 122.700 MHz / Seine Info 127.815 MHz / Paris Info 129.625 MHz
+
+* Exclusion: partie interférente avec ZRT Corridor SE lorsqu'active
+
+
+
+AC R
+
+AN ZRT CORRIDOR SW2
+
+AL FL055
+
+AH FL065
+
+DP 48:04:37 N 001:22:31 E
+
+DP 48:03:06 N 001:24:57 E
+
+DP 47:58:54 N 001:10:31 E
+
+DP 48:00:10 N 001:06:37 E
+
+DP 48:04:37 N 001:22:31 E
